@@ -901,11 +901,6 @@
             "group": "Albania"
         },
         {
-            "name": "EKHBARIYA (FHD)",
-            "url": "https://vavoo.to/vavoo-iptv/play/32723343148d9a66146ae0",
-            "group": "Albania"
-        },
-        {
             "name": "ELKALEM TV",
             "url": "https://vavoo.to/vavoo-iptv/play/3712244746d26871cca04d",
             "group": "Albania"
@@ -1078,11 +1073,6 @@
         {
             "name": "FALCON CINEMA SCI-FI",
             "url": "https://vavoo.to/vavoo-iptv/play/3704010545cccb2d4dfc21",
-            "group": "Albania"
-        },
-        {
-            "name": "FALCON CINEMA THRILLER",
-            "url": "https://vavoo.to/vavoo-iptv/play/34270139814dbb38653422",
             "group": "Albania"
         },
         {
@@ -1586,11 +1576,6 @@
             "group": "Albania"
         },
         {
-            "name": "HORREYA TV (720P)",
-            "url": "https://vavoo.to/vavoo-iptv/play/200875109e5286c5f26b8",
-            "group": "Albania"
-        },
-        {
             "name": "HS ASHKALI TV",
             "url": "https://vavoo.to/vavoo-iptv/play/213392940591f7a3711343",
             "group": "Albania"
@@ -1688,11 +1673,6 @@
         {
             "name": "IRAQIA (720P)",
             "url": "https://vavoo.to/vavoo-iptv/play/224065429564a5aadf9efd",
-            "group": "Albania"
-        },
-        {
-            "name": "IRAQIA NEWS (720P)",
-            "url": "https://vavoo.to/vavoo-iptv/play/2405636391cd45124a83da",
             "group": "Albania"
         },
         {
@@ -1837,11 +1817,6 @@
         },
         {
             "name": "KIDS",
-            "url": "https://vavoo.to/vavoo-iptv/play/68363488821456684a1cf",
-            "group": "Albania"
-        },
-        {
-            "name": "KIDS",
             "url": "https://vavoo.to/vavoo-iptv/play/3872768637f00344b49f82",
             "group": "Albania"
         },
@@ -1863,11 +1838,6 @@
         {
             "name": "KLAN",
             "url": "https://vavoo.to/vavoo-iptv/play/2085629786172ed06db97c",
-            "group": "Albania"
-        },
-        {
-            "name": "KLAN KOSOVA",
-            "url": "https://vavoo.to/vavoo-iptv/play/304006566010e2339a1271",
             "group": "Albania"
         },
         {
@@ -1943,11 +1913,6 @@
         {
             "name": "KOMEDI",
             "url": "https://vavoo.to/vavoo-iptv/play/4025988512bfb7302450f7",
-            "group": "Albania"
-        },
-        {
-            "name": "KORCA PLUS",
-            "url": "https://vavoo.to/vavoo-iptv/play/7018972295afcc9e28397",
             "group": "Albania"
         },
         {
@@ -2216,11 +2181,6 @@
             "group": "Albania"
         },
         {
-            "name": "MASAR TV (576P)",
-            "url": "https://vavoo.to/vavoo-iptv/play/393557921db8e7e3b05f5",
-            "group": "Albania"
-        },
-        {
             "name": "MASIRAH MUBACHER (642P) [NOT 24/7]",
             "url": "https://vavoo.to/vavoo-iptv/play/35653933117649203a16c",
             "group": "Albania"
@@ -2243,6 +2203,11 @@
         {
             "name": "MEKKA",
             "url": "https://vavoo.to/vavoo-iptv/play/3361040509cd9ce584b5bb",
+            "group": "Albania"
+        },
+        {
+            "name": "MELODY TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/1069700240030d6005a8fe",
             "group": "Albania"
         },
         {
@@ -2293,6 +2258,11 @@
         {
             "name": "MY MUSIC",
             "url": "https://vavoo.to/vavoo-iptv/play/34637967040bbe425c8085",
+            "group": "Albania"
+        },
+        {
+            "name": "NAEEM",
+            "url": "https://vavoo.to/vavoo-iptv/play/3663179118ca8bc2d6aa31",
             "group": "Albania"
         },
         {
@@ -2348,6 +2318,11 @@
         {
             "name": "ONEPLAY BABY TV",
             "url": "https://vavoo.to/vavoo-iptv/play/2592683291bb2ce41955e6",
+            "group": "Albania"
+        },
+        {
+            "name": "OPINIONI",
+            "url": "https://vavoo.to/vavoo-iptv/play/504930965beef95bcd4ee",
             "group": "Albania"
         },
         {
@@ -2473,6 +2448,11 @@
         {
             "name": "QURAN TV MAKKAH",
             "url": "https://vavoo.to/vavoo-iptv/play/3353185568db139fa0ffeb",
+            "group": "Albania"
+        },
+        {
+            "name": "RASHEED (408P) [NOT 24/7]",
+            "url": "https://vavoo.to/vavoo-iptv/play/3461777583e2eb2a800e3a",
             "group": "Albania"
         },
         {
@@ -2646,6 +2626,11 @@
             "group": "Albania"
         },
         {
+            "name": "RTSH FILM",
+            "url": "https://vavoo.to/vavoo-iptv/play/2756781816506e0b2c825b",
+            "group": "Albania"
+        },
+        {
             "name": "RTSH GJIROKASTRA",
             "url": "https://vavoo.to/vavoo-iptv/play/1779753158842bfc6025b4",
             "group": "Albania"
@@ -2701,6 +2686,11 @@
             "group": "Albania"
         },
         {
+            "name": "RTSH SATELIT",
+            "url": "https://vavoo.to/vavoo-iptv/play/256167530995b4a0da2242",
+            "group": "Albania"
+        },
+        {
             "name": "RTSH SHKODRA",
             "url": "https://vavoo.to/vavoo-iptv/play/196097184251f7e268352b",
             "group": "Albania"
@@ -2723,6 +2713,11 @@
         {
             "name": "RTSH SPORT",
             "url": "https://vavoo.to/vavoo-iptv/play/1673424152ba0c9f64d4f3",
+            "group": "Albania"
+        },
+        {
+            "name": "RTSH SPORT",
+            "url": "https://vavoo.to/vavoo-iptv/play/18688528543adf841a0167",
             "group": "Albania"
         },
         {
@@ -2816,6 +2811,11 @@
             "group": "Albania"
         },
         {
+            "name": "RTV ALDI",
+            "url": "https://vavoo.to/vavoo-iptv/play/30455369871f0212affe08",
+            "group": "Albania"
+        },
+        {
             "name": "RTV ARBERIA 1",
             "url": "https://vavoo.to/vavoo-iptv/play/191420408c4ca172c680e",
             "group": "Albania"
@@ -2828,6 +2828,11 @@
         {
             "name": "RTV ARBERIA 4",
             "url": "https://vavoo.to/vavoo-iptv/play/32804926808909cc77353f",
+            "group": "Albania"
+        },
+        {
+            "name": "RTV ARBERIA 5",
+            "url": "https://vavoo.to/vavoo-iptv/play/4276646200bdcc5cf57667",
             "group": "Albania"
         },
         {
@@ -2903,6 +2908,11 @@
         {
             "name": "SCAN",
             "url": "https://vavoo.to/vavoo-iptv/play/1514101999ddb4eddd24f5",
+            "group": "Albania"
+        },
+        {
+            "name": "SHALLAL TV (FHD)",
+            "url": "https://vavoo.to/vavoo-iptv/play/19124547728a92d056d46d",
             "group": "Albania"
         },
         {
@@ -2998,6 +3008,11 @@
         {
             "name": "SKY MAX",
             "url": "https://vavoo.to/vavoo-iptv/play/2224456743ccc3e3e82e70",
+            "group": "Albania"
+        },
+        {
+            "name": "SKY NOVELA",
+            "url": "https://vavoo.to/vavoo-iptv/play/469747947f27284605b44",
             "group": "Albania"
         },
         {
@@ -3141,6 +3156,11 @@
             "group": "Albania"
         },
         {
+            "name": "SUPER SPORT 4 HD",
+            "url": "https://vavoo.to/vavoo-iptv/play/233232874343bb0e13b990",
+            "group": "Albania"
+        },
+        {
             "name": "SUPER SPORT 5",
             "url": "https://vavoo.to/vavoo-iptv/play/4155700244e907f65d971f",
             "group": "Albania"
@@ -3218,6 +3238,11 @@
         {
             "name": "SYRI TV",
             "url": "https://vavoo.to/vavoo-iptv/play/93493555296618b530dac",
+            "group": "Albania"
+        },
+        {
+            "name": "SYRI VISION",
+            "url": "https://vavoo.to/vavoo-iptv/play/3314489412dbb3b9193025",
             "group": "Albania"
         },
         {
@@ -4028,6 +4053,11 @@
             "group": "Arabia"
         },
         {
+            "name": "[GLF] OMAN 2 MOBASHER",
+            "url": "https://vavoo.to/vavoo-iptv/play/32107591587df7e27ff8c8",
+            "group": "Arabia"
+        },
+        {
             "name": "[GLF] OMAN 3 THAKAFEYA",
             "url": "https://vavoo.to/vavoo-iptv/play/31133426360e6557fa73cc",
             "group": "Arabia"
@@ -4143,6 +4173,21 @@
             "group": "Arabia"
         },
         {
+            "name": "[SPO] ABU DHABI SPORTS 2 HD",
+            "url": "https://vavoo.to/vavoo-iptv/play/1354995561b00bbc9692d9",
+            "group": "Arabia"
+        },
+        {
+            "name": "[SPO] ABU DHABI SPORTS 3 HD",
+            "url": "https://vavoo.to/vavoo-iptv/play/2624165879d32613c473e4",
+            "group": "Arabia"
+        },
+        {
+            "name": "[SPO] ABU DHABI SPORTS 4 HD",
+            "url": "https://vavoo.to/vavoo-iptv/play/2527895278d75eb0e28733",
+            "group": "Arabia"
+        },
+        {
             "name": "[SPO] AL KASS SPORTS 2",
             "url": "https://vavoo.to/vavoo-iptv/play/17524067675b73f20b8e7c",
             "group": "Arabia"
@@ -4210,6 +4255,21 @@
         {
             "name": "13MAX TELEVISION",
             "url": "https://vavoo.to/vavoo-iptv/play/1156159358ed3581d76ad8",
+            "group": "Arabia"
+        },
+        {
+            "name": "2M MAROC",
+            "url": "https://vavoo.to/vavoo-iptv/play/3723807880b3fb6188ee94",
+            "group": "Arabia"
+        },
+        {
+            "name": "2M MONDE (360P)",
+            "url": "https://vavoo.to/vavoo-iptv/play/1898402275f86edc0e0191",
+            "group": "Arabia"
+        },
+        {
+            "name": "2M TNT",
+            "url": "https://vavoo.to/vavoo-iptv/play/38118373684cd0b78ba7b6",
             "group": "Arabia"
         },
         {
@@ -4603,6 +4663,11 @@
             "group": "Arabia"
         },
         {
+            "name": "AL KAWTHAR",
+            "url": "https://vavoo.to/vavoo-iptv/play/2296361700c65cbbc762e9",
+            "group": "Arabia"
+        },
+        {
             "name": "AL KHALIJ TV",
             "url": "https://vavoo.to/vavoo-iptv/play/2525365753a982ea87d1c8",
             "group": "Arabia"
@@ -4615,6 +4680,11 @@
         {
             "name": "AL MAGHRIBIA",
             "url": "https://vavoo.to/vavoo-iptv/play/1827627358afe655f174c0",
+            "group": "Arabia"
+        },
+        {
+            "name": "AL MAGHRIBIA TNT",
+            "url": "https://vavoo.to/vavoo-iptv/play/47164679169ea116da2bf",
             "group": "Arabia"
         },
         {
@@ -4703,6 +4773,11 @@
             "group": "Arabia"
         },
         {
+            "name": "AL ONS TV MAROC",
+            "url": "https://vavoo.to/vavoo-iptv/play/14359412789ec7802ce30f",
+            "group": "Arabia"
+        },
+        {
             "name": "AL QAMAR TV",
             "url": "https://vavoo.to/vavoo-iptv/play/196904247e81fc0be930a",
             "group": "Arabia"
@@ -4718,6 +4793,11 @@
             "group": "Arabia"
         },
         {
+            "name": "AL RAFIDAYN",
+            "url": "https://vavoo.to/vavoo-iptv/play/927229624a4307293286b",
+            "group": "Arabia"
+        },
+        {
             "name": "AL RAHMA TV",
             "url": "https://vavoo.to/vavoo-iptv/play/424978065512d0ba82e63f",
             "group": "Arabia"
@@ -4725,6 +4805,11 @@
         {
             "name": "AL RAHMA TV (BACKUP)",
             "url": "https://vavoo.to/vavoo-iptv/play/1788144913296a5eb1ad3b",
+            "group": "Arabia"
+        },
+        {
+            "name": "AL RASHEED TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/2850127184afd014ba301a",
             "group": "Arabia"
         },
         {
@@ -4830,6 +4915,11 @@
         {
             "name": "AL YAWM TV",
             "url": "https://vavoo.to/vavoo-iptv/play/20942304330e2b4138f296",
+            "group": "Arabia"
+        },
+        {
+            "name": "AL-ANBAR",
+            "url": "https://vavoo.to/vavoo-iptv/play/22324453848e2885708b69",
             "group": "Arabia"
         },
         {
@@ -5323,6 +5413,16 @@
             "group": "Arabia"
         },
         {
+            "name": "ARRIADIA MOURITANIA",
+            "url": "https://vavoo.to/vavoo-iptv/play/32205467675846106353b5",
+            "group": "Arabia"
+        },
+        {
+            "name": "ARRYADIA",
+            "url": "https://vavoo.to/vavoo-iptv/play/405401808eafbd4eca18e",
+            "group": "Arabia"
+        },
+        {
             "name": "ARRYADIA HD LIVE",
             "url": "https://vavoo.to/vavoo-iptv/play/1820559821c4a7955dc57d",
             "group": "Arabia"
@@ -5508,26 +5608,6 @@
             "group": "Arabia"
         },
         {
-            "name": "AZAHARES RADIO MULTIMEDIA",
-            "url": "https://vavoo.to/vavoo-iptv/play/3365621965d91ad97b0f4a",
-            "group": "Arabia"
-        },
-        {
-            "name": "AZAHARES RADIOVISUAL MULTIMEDIA",
-            "url": "https://vavoo.to/vavoo-iptv/play/31597224840c937764b32e",
-            "group": "Arabia"
-        },
-        {
-            "name": "AZHARI",
-            "url": "https://vavoo.to/vavoo-iptv/play/3966209327e64f48e3550d",
-            "group": "Arabia"
-        },
-        {
-            "name": "B4U AFLAM",
-            "url": "https://vavoo.to/vavoo-iptv/play/178455382178c8527dae0f",
-            "group": "Arabia"
-        },
-        {
             "name": "B4U PLUS",
             "url": "https://vavoo.to/vavoo-iptv/play/2227202428b86ef09fc60d",
             "group": "Arabia"
@@ -5650,6 +5730,16 @@
         {
             "name": "BEIN AFC SOURCE FAMILY",
             "url": "https://vavoo.to/vavoo-iptv/play/7373906830ee9607e808c",
+            "group": "Arabia"
+        },
+        {
+            "name": "BEIN AFC1 HD",
+            "url": "https://vavoo.to/vavoo-iptv/play/839178749ff0f6ad74c20",
+            "group": "Arabia"
+        },
+        {
+            "name": "BEIN AFC1 SD",
+            "url": "https://vavoo.to/vavoo-iptv/play/1528114085173b240e2537",
             "group": "Arabia"
         },
         {
@@ -5898,11 +5988,6 @@
             "group": "Arabia"
         },
         {
-            "name": "BEIN SPORTS 1",
-            "url": "https://vavoo.to/vavoo-iptv/play/15646274440c91be197602",
-            "group": "Arabia"
-        },
-        {
             "name": "BEIN SPORTS 1 (BACKUP)",
             "url": "https://vavoo.to/vavoo-iptv/play/1110589244d19b8e1dfc0d",
             "group": "Arabia"
@@ -5948,11 +6033,6 @@
             "group": "Arabia"
         },
         {
-            "name": "BEIN SPORTS 1 PREMIUM",
-            "url": "https://vavoo.to/vavoo-iptv/play/13503191367afd5c3725c4",
-            "group": "Arabia"
-        },
-        {
             "name": "BEIN SPORTS 1 PREMIUM (BACKUP 2)",
             "url": "https://vavoo.to/vavoo-iptv/play/391401178348a7559b8232",
             "group": "Arabia"
@@ -5960,11 +6040,6 @@
         {
             "name": "BEIN SPORTS 1 PREMIUM (BACKUP)",
             "url": "https://vavoo.to/vavoo-iptv/play/83187634a6eb2ae478cc",
-            "group": "Arabia"
-        },
-        {
-            "name": "BEIN SPORTS 1 PREMIUM 1080 LOCAL",
-            "url": "https://vavoo.to/vavoo-iptv/play/348765617908a2a75872e0",
             "group": "Arabia"
         },
         {
@@ -6080,11 +6155,6 @@
         {
             "name": "BEIN SPORTS 2 HQ",
             "url": "https://vavoo.to/vavoo-iptv/play/2785998354cbb49482bcfb",
-            "group": "Arabia"
-        },
-        {
-            "name": "BEIN SPORTS 2 PREMIUM",
-            "url": "https://vavoo.to/vavoo-iptv/play/3988148462dcce7889041a",
             "group": "Arabia"
         },
         {
@@ -6275,6 +6345,11 @@
         {
             "name": "BEIN SPORTS 5 (BACKUP)",
             "url": "https://vavoo.to/vavoo-iptv/play/15371264397d63be77ddf7",
+            "group": "Arabia"
+        },
+        {
+            "name": "BEIN SPORTS 5 FHD",
+            "url": "https://vavoo.to/vavoo-iptv/play/1271051356bd403600a7ac",
             "group": "Arabia"
         },
         {
@@ -7008,6 +7083,11 @@
             "group": "Arabia"
         },
         {
+            "name": "CANAL 2 SALTA",
+            "url": "https://vavoo.to/vavoo-iptv/play/4150150474332f32fbcc56",
+            "group": "Arabia"
+        },
+        {
             "name": "CANAL 21",
             "url": "https://vavoo.to/vavoo-iptv/play/798165980baf3dc69cdf1",
             "group": "Arabia"
@@ -7645,11 +7725,6 @@
         {
             "name": "DISCOVERY CHANNEL",
             "url": "https://vavoo.to/vavoo-iptv/play/4062496972fb75d3acaa33",
-            "group": "Arabia"
-        },
-        {
-            "name": "DISCOVERY HD",
-            "url": "https://vavoo.to/vavoo-iptv/play/1497426810df237e3c83c5",
             "group": "Arabia"
         },
         {
@@ -8508,6 +8583,16 @@
             "group": "Arabia"
         },
         {
+            "name": "KSA|IEN DOROS 08",
+            "url": "https://vavoo.to/vavoo-iptv/play/10949111659d885b2a685c",
+            "group": "Arabia"
+        },
+        {
+            "name": "KSA|IEN DOROS 09",
+            "url": "https://vavoo.to/vavoo-iptv/play/2082680077d0c87ce94e59",
+            "group": "Arabia"
+        },
+        {
             "name": "KSA|IEN DOROS 10",
             "url": "https://vavoo.to/vavoo-iptv/play/3127876825e883b1a00587",
             "group": "Arabia"
@@ -8863,6 +8948,16 @@
             "group": "Arabia"
         },
         {
+            "name": "MBC 1 (FHD)",
+            "url": "https://vavoo.to/vavoo-iptv/play/38969325307c7505c7431e",
+            "group": "Arabia"
+        },
+        {
+            "name": "MBC 1 USA (FHD)",
+            "url": "https://vavoo.to/vavoo-iptv/play/3441997029d2e77251edac",
+            "group": "Arabia"
+        },
+        {
             "name": "MBC 2",
             "url": "https://vavoo.to/vavoo-iptv/play/36691987077e93e7ac1bfc",
             "group": "Arabia"
@@ -8913,8 +9008,18 @@
             "group": "Arabia"
         },
         {
+            "name": "MBC DRAMA USA (FHD)",
+            "url": "https://vavoo.to/vavoo-iptv/play/26042602126db528970213",
+            "group": "Arabia"
+        },
+        {
             "name": "MBC FM",
             "url": "https://vavoo.to/vavoo-iptv/play/2029078468595c2f607f59",
+            "group": "Arabia"
+        },
+        {
+            "name": "MBC FM (FHD)",
+            "url": "https://vavoo.to/vavoo-iptv/play/3336266821ae5da0b37aa7",
             "group": "Arabia"
         },
         {
@@ -11083,6 +11188,11 @@
             "group": "Arabia"
         },
         {
+            "name": "WATAN TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/491760293ee032bfcea09",
+            "group": "Arabia"
+        },
+        {
             "name": "WATAR TV (720P) [NOT 24/7]",
             "url": "https://vavoo.to/vavoo-iptv/play/11472842993ce4e64fd53b",
             "group": "Arabia"
@@ -12096,6 +12206,11 @@
             "group": "Bulgaria"
         },
         {
+            "name": "TV EVROPA",
+            "url": "https://vavoo.to/vavoo-iptv/play/2679524542d072c61b3df5",
+            "group": "Bulgaria"
+        },
+        {
             "name": "TV PLUS",
             "url": "https://vavoo.to/vavoo-iptv/play/1793684627037ae74ff07e",
             "group": "Bulgaria"
@@ -12162,11 +12277,6 @@
         }
     ],
     "France": [
-        {
-            "name": "100% DOCS",
-            "url": "https://vavoo.to/vavoo-iptv/play/218007192799e45400a82c",
-            "group": "France"
-        },
         {
             "name": "13 EME RUE HD",
             "url": "https://vavoo.to/vavoo-iptv/play/40704463696c79db63feff",
@@ -12310,11 +12420,6 @@
         {
             "name": "A+",
             "url": "https://vavoo.to/vavoo-iptv/play/17658736402a7360a48901",
-            "group": "France"
-        },
-        {
-            "name": "A+ IVOIRE",
-            "url": "https://vavoo.to/vavoo-iptv/play/3112924315d0d16438637b",
             "group": "France"
         },
         {
@@ -12463,18 +12568,8 @@
             "group": "France"
         },
         {
-            "name": "AMAZON PRIME 6 HD",
-            "url": "https://vavoo.to/vavoo-iptv/play/36252418955c743cdbc9a2",
-            "group": "France"
-        },
-        {
             "name": "AMAZON PRIME 6 HD+",
             "url": "https://vavoo.to/vavoo-iptv/play/3844871996d251721d919",
-            "group": "France"
-        },
-        {
-            "name": "AMAZON PRIME 7",
-            "url": "https://vavoo.to/vavoo-iptv/play/2872673974a3a99e198901",
             "group": "France"
         },
         {
@@ -12500,11 +12595,6 @@
         {
             "name": "AMAZON PRIME 8 [LIVE DURING EVENTS ONLY]",
             "url": "https://vavoo.to/vavoo-iptv/play/921329291c49ec1552b55",
-            "group": "France"
-        },
-        {
-            "name": "AMAZON PRIME 8 HD",
-            "url": "https://vavoo.to/vavoo-iptv/play/3449741077ec58c502a8cc",
             "group": "France"
         },
         {
@@ -13003,11 +13093,6 @@
             "group": "France"
         },
         {
-            "name": "BFM TV HD",
-            "url": "https://vavoo.to/vavoo-iptv/play/1080830216b8e08bdf456f",
-            "group": "France"
-        },
-        {
             "name": "BIP TV",
             "url": "https://vavoo.to/vavoo-iptv/play/2475360608ab28c6777d10",
             "group": "France"
@@ -13173,11 +13258,6 @@
             "group": "France"
         },
         {
-            "name": "CANAL 9",
-            "url": "https://vavoo.to/vavoo-iptv/play/23723609030e4b194c1f34",
-            "group": "France"
-        },
-        {
             "name": "CANAL ALPHA",
             "url": "https://vavoo.to/vavoo-iptv/play/33644893130fb5cb54214e",
             "group": "France"
@@ -13270,6 +13350,16 @@
         {
             "name": "CANAL PLAY 14",
             "url": "https://vavoo.to/vavoo-iptv/play/164930952e4b00a3d6fd6",
+            "group": "France"
+        },
+        {
+            "name": "CANAL PLAY 15",
+            "url": "https://vavoo.to/vavoo-iptv/play/884247608dd93524f8cb9",
+            "group": "France"
+        },
+        {
+            "name": "CANAL PLAY 16",
+            "url": "https://vavoo.to/vavoo-iptv/play/193075376859e75e04d8da",
             "group": "France"
         },
         {
@@ -13408,11 +13498,6 @@
             "group": "France"
         },
         {
-            "name": "CANAL+ BOX OFFICE",
-            "url": "https://vavoo.to/vavoo-iptv/play/97238400212a5a98e376c",
-            "group": "France"
-        },
-        {
             "name": "CANAL+ CINEMA",
             "url": "https://vavoo.to/vavoo-iptv/play/3980730104297e5d74da47",
             "group": "France"
@@ -13513,11 +13598,6 @@
             "group": "France"
         },
         {
-            "name": "CANAL+ LIVE 1",
-            "url": "https://vavoo.to/vavoo-iptv/play/4272460704b9e4e02c3766",
-            "group": "France"
-        },
-        {
             "name": "CANAL+ LIVE 10",
             "url": "https://vavoo.to/vavoo-iptv/play/942555923322d0382513b",
             "group": "France"
@@ -13583,11 +13663,6 @@
             "group": "France"
         },
         {
-            "name": "CANAL+ LIVE 8",
-            "url": "https://vavoo.to/vavoo-iptv/play/4088984017beba33442562",
-            "group": "France"
-        },
-        {
             "name": "CANAL+ LIVE 9",
             "url": "https://vavoo.to/vavoo-iptv/play/34703176652da9efa5d915",
             "group": "France"
@@ -13603,18 +13678,8 @@
             "group": "France"
         },
         {
-            "name": "CANAL+ PL",
-            "url": "https://vavoo.to/vavoo-iptv/play/10510672695ea0e8c1e06f",
-            "group": "France"
-        },
-        {
             "name": "CANAL+ PREMIER LEAGUE",
-            "url": "https://vavoo.to/vavoo-iptv/play/1280773990a62f35ce57b",
-            "group": "France"
-        },
-        {
-            "name": "CANAL+ SERIES",
-            "url": "https://vavoo.to/vavoo-iptv/play/907568283b0bf51903416",
+            "url": "https://vavoo.to/vavoo-iptv/play/5999318711f859cb06886",
             "group": "France"
         },
         {
@@ -13693,11 +13758,6 @@
             "group": "France"
         },
         {
-            "name": "CANAL+ TOP 14",
-            "url": "https://vavoo.to/vavoo-iptv/play/170395720073b0770769ac",
-            "group": "France"
-        },
-        {
             "name": "CANALPLAY 11",
             "url": "https://vavoo.to/vavoo-iptv/play/364512830674efd303e0f",
             "group": "France"
@@ -13710,6 +13770,11 @@
         {
             "name": "CANALPLAY 13",
             "url": "https://vavoo.to/vavoo-iptv/play/1870288222c4332250183b",
+            "group": "France"
+        },
+        {
+            "name": "CANALPLAY 14",
+            "url": "https://vavoo.to/vavoo-iptv/play/3713698126fc622ca2f1ee",
             "group": "France"
         },
         {
@@ -14303,6 +14368,11 @@
             "group": "France"
         },
         {
+            "name": "DIRECT EQUIPE",
+            "url": "https://vavoo.to/vavoo-iptv/play/272201374708c808452afa",
+            "group": "France"
+        },
+        {
             "name": "DISCOVERY CHANNEL",
             "url": "https://vavoo.to/vavoo-iptv/play/340454356536c0a44a2785",
             "group": "France"
@@ -14789,12 +14859,17 @@
         },
         {
             "name": "GAME ONE",
-            "url": "https://vavoo.to/vavoo-iptv/play/95927214794c633f7cf15",
+            "url": "https://vavoo.to/vavoo-iptv/play/22141630554906bb2fc4a4",
             "group": "France"
         },
         {
             "name": "GAME ONE",
             "url": "https://vavoo.to/vavoo-iptv/play/1479966396202ff806f8d8",
+            "group": "France"
+        },
+        {
+            "name": "GAME ONE +1",
+            "url": "https://vavoo.to/vavoo-iptv/play/352210002128b8d8ce3e1a",
             "group": "France"
         },
         {
@@ -14878,11 +14953,6 @@
             "group": "France"
         },
         {
-            "name": "HISTOIRE",
-            "url": "https://vavoo.to/vavoo-iptv/play/2130335163f95e9021776",
-            "group": "France"
-        },
-        {
             "name": "HISTOIRE HD",
             "url": "https://vavoo.to/vavoo-iptv/play/66599424018c555f53d1b",
             "group": "France"
@@ -14918,8 +14988,8 @@
             "group": "France"
         },
         {
-            "name": "INFOSPORT",
-            "url": "https://vavoo.to/vavoo-iptv/play/3208238801406723ee25b2",
+            "name": "INFOSPORT+",
+            "url": "https://vavoo.to/vavoo-iptv/play/1112782125a49c15bb39d9",
             "group": "France"
         },
         {
@@ -15163,6 +15233,16 @@
             "group": "France"
         },
         {
+            "name": "MANGAS",
+            "url": "https://vavoo.to/vavoo-iptv/play/1703130591ccf5ff520f76",
+            "group": "France"
+        },
+        {
+            "name": "MANGAS",
+            "url": "https://vavoo.to/vavoo-iptv/play/139408412ba8e0ae7a800",
+            "group": "France"
+        },
+        {
             "name": "MANGAS HD",
             "url": "https://vavoo.to/vavoo-iptv/play/401237472a1e90e56167a",
             "group": "France"
@@ -15195,11 +15275,6 @@
         {
             "name": "MCM HD",
             "url": "https://vavoo.to/vavoo-iptv/play/33400096800b79d7bb9d9",
-            "group": "France"
-        },
-        {
-            "name": "MCM POP",
-            "url": "https://vavoo.to/vavoo-iptv/play/8696880859ab59a847a37",
             "group": "France"
         },
         {
@@ -15635,16 +15710,6 @@
         {
             "name": "NRJ HITS HD",
             "url": "https://vavoo.to/vavoo-iptv/play/3639203183127ef9073e5d",
-            "group": "France"
-        },
-        {
-            "name": "NRJ HITS SD",
-            "url": "https://vavoo.to/vavoo-iptv/play/2985830199d8c9b9252da5",
-            "group": "France"
-        },
-        {
-            "name": "OCS CHOC",
-            "url": "https://vavoo.to/vavoo-iptv/play/7689644035cd50c34c4d1",
             "group": "France"
         },
         {
@@ -16548,11 +16613,6 @@
             "group": "France"
         },
         {
-            "name": "TEBEO",
-            "url": "https://vavoo.to/vavoo-iptv/play/274566616922c987e2de46",
-            "group": "France"
-        },
-        {
             "name": "TECH & CO",
             "url": "https://vavoo.to/vavoo-iptv/play/658342949819aaca862d6",
             "group": "France"
@@ -16650,16 +16710,6 @@
         {
             "name": "TFX",
             "url": "https://vavoo.to/vavoo-iptv/play/17522320208e62334baa89",
-            "group": "France"
-        },
-        {
-            "name": "TFX",
-            "url": "https://vavoo.to/vavoo-iptv/play/965401356d56a26be4f45",
-            "group": "France"
-        },
-        {
-            "name": "TIJI",
-            "url": "https://vavoo.to/vavoo-iptv/play/12869143765e4bc62e1bc",
             "group": "France"
         },
         {
@@ -16805,11 +16855,6 @@
         {
             "name": "TREK",
             "url": "https://vavoo.to/vavoo-iptv/play/15694350483ccb2585ca3a",
-            "group": "France"
-        },
-        {
-            "name": "TV BREIZH",
-            "url": "https://vavoo.to/vavoo-iptv/play/36354660a6856dd80a4f",
             "group": "France"
         },
         {
@@ -16988,6 +17033,11 @@
             "group": "France"
         },
         {
+            "name": "WARNER TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/2978100125aecff8327cf5",
+            "group": "France"
+        },
+        {
             "name": "WARNER TV NEXT",
             "url": "https://vavoo.to/vavoo-iptv/play/48836462992d6cf6baccf",
             "group": "France"
@@ -17150,18 +17200,8 @@
             "group": "Germany"
         },
         {
-            "name": "ALTENBURG TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/20962451631c654f27be3d",
-            "group": "Germany"
-        },
-        {
             "name": "AMAZON PRIME HD",
             "url": "https://vavoo.to/vavoo-iptv/play/3648815838fbf386e1a708",
-            "group": "Germany"
-        },
-        {
-            "name": "AMAZON PRIME SPORT [NUR LIVE STTEAMING]",
-            "url": "https://vavoo.to/vavoo-iptv/play/154964344597bff120474a",
             "group": "Germany"
         },
         {
@@ -17192,11 +17232,6 @@
         {
             "name": "ANIXE SERIE",
             "url": "https://vavoo.to/vavoo-iptv/play/2114435683697556ce3fd",
-            "group": "Germany"
-        },
-        {
-            "name": "ANIXE SERIE HD [SAT] []",
-            "url": "https://vavoo.to/vavoo-iptv/play/11101209195ba2b8a5389a",
             "group": "Germany"
         },
         {
@@ -17390,11 +17425,6 @@
             "group": "Germany"
         },
         {
-            "name": "BIG BROTHER",
-            "url": "https://vavoo.to/vavoo-iptv/play/3880053996292023cacdac",
-            "group": "Germany"
-        },
-        {
             "name": "BILD TV",
             "url": "https://vavoo.to/vavoo-iptv/play/23240170086c1a3025ca41",
             "group": "Germany"
@@ -17500,11 +17530,6 @@
             "group": "Germany"
         },
         {
-            "name": "BLUETV DOKUMENTARFILM ʜᴅ",
-            "url": "https://vavoo.to/vavoo-iptv/play/265457868686bae73c5be4",
-            "group": "Germany"
-        },
-        {
             "name": "BLUETV DRAMA 1 ʜᴅ",
             "url": "https://vavoo.to/vavoo-iptv/play/3911953199a086b8c6bcf2",
             "group": "Germany"
@@ -17530,8 +17555,18 @@
             "group": "Germany"
         },
         {
+            "name": "BLUETV HORROR 1 ʜᴅ",
+            "url": "https://vavoo.to/vavoo-iptv/play/13571752139dbb0c175f51",
+            "group": "Germany"
+        },
+        {
             "name": "BLUETV KOMODIE 1 ʜᴅ",
             "url": "https://vavoo.to/vavoo-iptv/play/4253115827cdffd0ec9955",
+            "group": "Germany"
+        },
+        {
+            "name": "BLUETV KRIEGSFILM ʜᴅ",
+            "url": "https://vavoo.to/vavoo-iptv/play/116223296934241aaf11dc",
             "group": "Germany"
         },
         {
@@ -17815,6 +17850,11 @@
             "group": "Germany"
         },
         {
+            "name": "CINEDOME HORROR",
+            "url": "https://vavoo.to/vavoo-iptv/play/1570197824f1dd220bc341",
+            "group": "Germany"
+        },
+        {
             "name": "CINEDOME JACKIE CHAN",
             "url": "https://vavoo.to/vavoo-iptv/play/32822794131137e278071d",
             "group": "Germany"
@@ -17940,11 +17980,6 @@
             "group": "Germany"
         },
         {
-            "name": "DAZN 1 HEVC []",
-            "url": "https://vavoo.to/vavoo-iptv/play/1730277178cabd1583c124",
-            "group": "Germany"
-        },
-        {
             "name": "DAZN 10 (MATCH TIME) HD",
             "url": "https://vavoo.to/vavoo-iptv/play/2936413245fcd7a1896aec",
             "group": "Germany"
@@ -18065,11 +18100,6 @@
             "group": "Germany"
         },
         {
-            "name": "DAZN BAR 1 []",
-            "url": "https://vavoo.to/vavoo-iptv/play/14745367131ac295081561",
-            "group": "Germany"
-        },
-        {
             "name": "DAZN BAR 1 FHD",
             "url": "https://vavoo.to/vavoo-iptv/play/30757699713fe2a8880b52",
             "group": "Germany"
@@ -18077,11 +18107,6 @@
         {
             "name": "DAZN BAR 1 HD",
             "url": "https://vavoo.to/vavoo-iptv/play/24877931690bfe8def3a83",
-            "group": "Germany"
-        },
-        {
-            "name": "DAZN BAR 2 []",
-            "url": "https://vavoo.to/vavoo-iptv/play/3647775466b603a5ae8272",
             "group": "Germany"
         },
         {
@@ -18285,6 +18310,11 @@
             "group": "Germany"
         },
         {
+            "name": "DEUTSCHE SPORT",
+            "url": "https://vavoo.to/vavoo-iptv/play/3690248614aeaba09f780b",
+            "group": "Germany"
+        },
+        {
             "name": "DEUTSCHES MUSIK FERNSEHEN",
             "url": "https://vavoo.to/vavoo-iptv/play/219547973580689592af80",
             "group": "Germany"
@@ -18405,6 +18435,11 @@
             "group": "Germany"
         },
         {
+            "name": "DOKUMENTATION",
+            "url": "https://vavoo.to/vavoo-iptv/play/196474343111e0f530a0c6",
+            "group": "Germany"
+        },
+        {
             "name": "DOKUSAT",
             "url": "https://vavoo.to/vavoo-iptv/play/132574514201bf552e252b",
             "group": "Germany"
@@ -18445,8 +18480,8 @@
             "group": "Germany"
         },
         {
-            "name": "DYN SPORT 10",
-            "url": "https://vavoo.to/vavoo-iptv/play/42463225237f7f47aea6f7",
+            "name": "DYN SPORT 1",
+            "url": "https://vavoo.to/vavoo-iptv/play/4939706396689225497ed",
             "group": "Germany"
         },
         {
@@ -18455,23 +18490,13 @@
             "group": "Germany"
         },
         {
-            "name": "DYN SPORT 19 []",
-            "url": "https://vavoo.to/vavoo-iptv/play/357778443621093f101595",
-            "group": "Germany"
-        },
-        {
-            "name": "DYN SPORT 2",
-            "url": "https://vavoo.to/vavoo-iptv/play/1523654175d237ed7b050e",
-            "group": "Germany"
-        },
-        {
             "name": "DYN SPORT 20 []",
             "url": "https://vavoo.to/vavoo-iptv/play/4085419930b4ca8d140f16",
             "group": "Germany"
         },
         {
-            "name": "DYN SPORT 3 []",
-            "url": "https://vavoo.to/vavoo-iptv/play/320930950079c6b1eb5088",
+            "name": "DYN SPORT 3",
+            "url": "https://vavoo.to/vavoo-iptv/play/1739667375b70564ce305e",
             "group": "Germany"
         },
         {
@@ -18487,11 +18512,6 @@
         {
             "name": "DYN SPORT 6",
             "url": "https://vavoo.to/vavoo-iptv/play/29413685430926e4f60080",
-            "group": "Germany"
-        },
-        {
-            "name": "DYN SPORT 7",
-            "url": "https://vavoo.to/vavoo-iptv/play/24527220317420861d5507",
             "group": "Germany"
         },
         {
@@ -18540,6 +18560,21 @@
             "group": "Germany"
         },
         {
+            "name": "EB COLLECTION MARVELS",
+            "url": "https://vavoo.to/vavoo-iptv/play/38731210498ce79a977a6d",
+            "group": "Germany"
+        },
+        {
+            "name": "EB COLLECTION MARVELS 2",
+            "url": "https://vavoo.to/vavoo-iptv/play/399198003287ae1ecbb958",
+            "group": "Germany"
+        },
+        {
+            "name": "EB COLLECTION MEN IN BLACK",
+            "url": "https://vavoo.to/vavoo-iptv/play/3639226616cc575bd12efc",
+            "group": "Germany"
+        },
+        {
             "name": "EB COLLECTION POLICE ACADEMY",
             "url": "https://vavoo.to/vavoo-iptv/play/7973268952e04f07549e1",
             "group": "Germany"
@@ -18550,18 +18585,8 @@
             "group": "Germany"
         },
         {
-            "name": "EB COLLECTION STAR WARS",
-            "url": "https://vavoo.to/vavoo-iptv/play/74720369622814b37b48d",
-            "group": "Germany"
-        },
-        {
             "name": "EB COLLECTION TERMINATOR",
             "url": "https://vavoo.to/vavoo-iptv/play/7610293135ab198798986",
-            "group": "Germany"
-        },
-        {
-            "name": "EB COLLECTION TRANSFORMERS",
-            "url": "https://vavoo.to/vavoo-iptv/play/39999985455a03cbda301c",
             "group": "Germany"
         },
         {
@@ -18670,11 +18695,6 @@
             "group": "Germany"
         },
         {
-            "name": "EUROSPORT 2 FHD",
-            "url": "https://vavoo.to/vavoo-iptv/play/5770885350ee8b0ed69a6",
-            "group": "Germany"
-        },
-        {
             "name": "EUROSPORT 2 HD",
             "url": "https://vavoo.to/vavoo-iptv/play/276937585056ddb569c6ab",
             "group": "Germany"
@@ -18682,11 +18702,6 @@
         {
             "name": "EUROSPORT 2 HD (BACKUP 2)",
             "url": "https://vavoo.to/vavoo-iptv/play/136650226725e969c2837",
-            "group": "Germany"
-        },
-        {
-            "name": "EUROSPORT 2 HD (BACKUP)",
-            "url": "https://vavoo.to/vavoo-iptv/play/622250285676d0314d4af",
             "group": "Germany"
         },
         {
@@ -18792,6 +18807,11 @@
         {
             "name": "FS1",
             "url": "https://vavoo.to/vavoo-iptv/play/7585119538f63b9110622",
+            "group": "Germany"
+        },
+        {
+            "name": "GAME OF THRONES CHANNEL",
+            "url": "https://vavoo.to/vavoo-iptv/play/1063623223051cf653b95e",
             "group": "Germany"
         },
         {
@@ -19065,11 +19085,6 @@
             "group": "Germany"
         },
         {
-            "name": "KIKA",
-            "url": "https://vavoo.to/vavoo-iptv/play/31476952887d95e567d9cc",
-            "group": "Germany"
-        },
-        {
             "name": "KINDER SENDER",
             "url": "https://vavoo.to/vavoo-iptv/play/10572654605e6e19b95e93",
             "group": "Germany"
@@ -19142,11 +19157,6 @@
         {
             "name": "LG 205 SONY ONE ACTION HITS",
             "url": "https://vavoo.to/vavoo-iptv/play/33191316658a6a4cc1baf6",
-            "group": "Germany"
-        },
-        {
-            "name": "LG 206 SONY ONE COMEDY HITS",
-            "url": "https://vavoo.to/vavoo-iptv/play/169835704357d32e4d9b37",
             "group": "Germany"
         },
         {
@@ -19325,6 +19335,11 @@
             "group": "Germany"
         },
         {
+            "name": "LG 328 PROFILING PARIS",
+            "url": "https://vavoo.to/vavoo-iptv/play/3829262292087b7d4098d9",
+            "group": "Germany"
+        },
+        {
             "name": "LG 330 XENA WARRIOR PRINCESS",
             "url": "https://vavoo.to/vavoo-iptv/play/3837071555e2b0be0eccb6",
             "group": "Germany"
@@ -19392,11 +19407,6 @@
         {
             "name": "LG 399 MERHABA TÜRKISCHE SERIEN",
             "url": "https://vavoo.to/vavoo-iptv/play/1990877071525bb244bfc2",
-            "group": "Germany"
-        },
-        {
-            "name": "LG 400 TELENOVELA ZDF",
-            "url": "https://vavoo.to/vavoo-iptv/play/272726129943ddf957d69a",
             "group": "Germany"
         },
         {
@@ -19660,6 +19670,11 @@
             "group": "Germany"
         },
         {
+            "name": "LG 700 DAZN FAST",
+            "url": "https://vavoo.to/vavoo-iptv/play/420919079996290edef0b0",
+            "group": "Germany"
+        },
+        {
             "name": "LG 702 FIFA+",
             "url": "https://vavoo.to/vavoo-iptv/play/4287084958f9e6e223d81e",
             "group": "Germany"
@@ -19860,6 +19875,11 @@
             "group": "Germany"
         },
         {
+            "name": "LG 960 STINGRAY HIP HOP",
+            "url": "https://vavoo.to/vavoo-iptv/play/1202771459fdee09c7843",
+            "group": "Germany"
+        },
+        {
             "name": "LG 961 STINGRAY KARAOKE",
             "url": "https://vavoo.to/vavoo-iptv/play/1589110373ed1ca7eb4c0d",
             "group": "Germany"
@@ -19922,6 +19942,11 @@
         {
             "name": "LG 976 NOW 70S",
             "url": "https://vavoo.to/vavoo-iptv/play/35936461769171a9610ebe",
+            "group": "Germany"
+        },
+        {
+            "name": "LG 977 NOW 80S",
+            "url": "https://vavoo.to/vavoo-iptv/play/42601085568aa882278e65",
             "group": "Germany"
         },
         {
@@ -20040,11 +20065,6 @@
             "group": "Germany"
         },
         {
-            "name": "MAGENTA FUSSBALL 13 HD",
-            "url": "https://vavoo.to/vavoo-iptv/play/132463819674bcf7d88b95",
-            "group": "Germany"
-        },
-        {
             "name": "MAGENTA FUSSBALL 15 HD",
             "url": "https://vavoo.to/vavoo-iptv/play/2291881587ece61c942492",
             "group": "Germany"
@@ -20055,18 +20075,18 @@
             "group": "Germany"
         },
         {
-            "name": "MAGENTA FUSSBALL 17 HD",
-            "url": "https://vavoo.to/vavoo-iptv/play/3401470222d80b56a7e0e0",
-            "group": "Germany"
-        },
-        {
-            "name": "MAGENTA FUSSBALL 18 HD",
-            "url": "https://vavoo.to/vavoo-iptv/play/3291391060b3bb793b0ba",
-            "group": "Germany"
-        },
-        {
             "name": "MAGENTA FUSSBALL 2 HD",
             "url": "https://vavoo.to/vavoo-iptv/play/87891604188ab6611993a",
+            "group": "Germany"
+        },
+        {
+            "name": "MAGENTA FUSSBALL 3 HD",
+            "url": "https://vavoo.to/vavoo-iptv/play/4173934935dd37fb153922",
+            "group": "Germany"
+        },
+        {
+            "name": "MAGENTA FUSSBALL 4 HD",
+            "url": "https://vavoo.to/vavoo-iptv/play/4060887118df811fcd6cf3",
             "group": "Germany"
         },
         {
@@ -20167,6 +20187,11 @@
         {
             "name": "MAGENTA SPORT 17",
             "url": "https://vavoo.to/vavoo-iptv/play/3890301374bb35aed1dbc5",
+            "group": "Germany"
+        },
+        {
+            "name": "MAGENTA SPORT 18",
+            "url": "https://vavoo.to/vavoo-iptv/play/17061556318f1778ae7b87",
             "group": "Germany"
         },
         {
@@ -20315,16 +20340,6 @@
             "group": "Germany"
         },
         {
-            "name": "MORE THAN SPORTS TV FHD",
-            "url": "https://vavoo.to/vavoo-iptv/play/426550286a4b7d526ee92",
-            "group": "Germany"
-        },
-        {
-            "name": "MORE THAN SPORTS TV HD",
-            "url": "https://vavoo.to/vavoo-iptv/play/3258549066c5794d054377",
-            "group": "Germany"
-        },
-        {
             "name": "MOTORSPORT TV",
             "url": "https://vavoo.to/vavoo-iptv/play/137129632797fbd12df0da",
             "group": "Germany"
@@ -20442,11 +20457,6 @@
         {
             "name": "N24 DOKU HD",
             "url": "https://vavoo.to/vavoo-iptv/play/3084650651e1ec9a0dbc4f",
-            "group": "Germany"
-        },
-        {
-            "name": "NACHRICHTEN",
-            "url": "https://vavoo.to/vavoo-iptv/play/825882949e288457ddb5d",
             "group": "Germany"
         },
         {
@@ -20635,11 +20645,6 @@
             "group": "Germany"
         },
         {
-            "name": "NOA 4 NORDERSTEDT",
-            "url": "https://vavoo.to/vavoo-iptv/play/29976201795010432fe668",
-            "group": "Germany"
-        },
-        {
             "name": "NRWISION",
             "url": "https://vavoo.to/vavoo-iptv/play/15891356777591819f58ac",
             "group": "Germany"
@@ -20675,11 +20680,6 @@
             "group": "Germany"
         },
         {
-            "name": "OE24",
-            "url": "https://vavoo.to/vavoo-iptv/play/1156381856c189dfc84a5b",
-            "group": "Germany"
-        },
-        {
             "name": "OF TV OFFENBACH",
             "url": "https://vavoo.to/vavoo-iptv/play/1027321034d7b634a17d6f",
             "group": "Germany"
@@ -20702,11 +20702,6 @@
         {
             "name": "OK FLENSBURG",
             "url": "https://vavoo.to/vavoo-iptv/play/4179937549e2703b340130",
-            "group": "Germany"
-        },
-        {
-            "name": "OK KAISERSLAUTERN",
-            "url": "https://vavoo.to/vavoo-iptv/play/112289314263c0d0542233",
             "group": "Germany"
         },
         {
@@ -20830,6 +20825,11 @@
             "group": "Germany"
         },
         {
+            "name": "PARAMOUNT NETWORK",
+            "url": "https://vavoo.to/vavoo-iptv/play/28315231787947d502bc5f",
+            "group": "Germany"
+        },
+        {
             "name": "PARANORMAL",
             "url": "https://vavoo.to/vavoo-iptv/play/33165075943c5cb8f10e94",
             "group": "Germany"
@@ -20882,11 +20882,6 @@
         {
             "name": "PHOENIX (BACKUP)",
             "url": "https://vavoo.to/vavoo-iptv/play/44467064780636709b6de",
-            "group": "Germany"
-        },
-        {
-            "name": "PHOENIX HD",
-            "url": "https://vavoo.to/vavoo-iptv/play/215481388a0059a30c150",
             "group": "Germany"
         },
         {
@@ -20971,11 +20966,6 @@
         },
         {
             "name": "PROSIEBEN",
-            "url": "https://vavoo.to/vavoo-iptv/play/307339266772ee5429d9ac",
-            "group": "Germany"
-        },
-        {
-            "name": "PROSIEBEN",
             "url": "https://vavoo.to/vavoo-iptv/play/4292555000bb7b3ef5f704",
             "group": "Germany"
         },
@@ -20992,11 +20982,6 @@
         {
             "name": "PROSIEBEN MAXX",
             "url": "https://vavoo.to/vavoo-iptv/play/20247083285b9f9dba3754",
-            "group": "Germany"
-        },
-        {
-            "name": "PULS 4",
-            "url": "https://vavoo.to/vavoo-iptv/play/319181658220ee4b79bce4",
             "group": "Germany"
         },
         {
@@ -21052,11 +21037,6 @@
         {
             "name": "RADIO WASER TV BREMEN",
             "url": "https://vavoo.to/vavoo-iptv/play/27336688700863383ef3b8",
-            "group": "Germany"
-        },
-        {
-            "name": "RAKUTEN SPOTLIGHT",
-            "url": "https://vavoo.to/vavoo-iptv/play/60685229118e664291ddf",
             "group": "Germany"
         },
         {
@@ -21350,16 +21330,6 @@
             "group": "Germany"
         },
         {
-            "name": "RTL+ EVENT 3 []",
-            "url": "https://vavoo.to/vavoo-iptv/play/19944766b5e262c44562",
-            "group": "Germany"
-        },
-        {
-            "name": "RTL+ EVENT 5 []",
-            "url": "https://vavoo.to/vavoo-iptv/play/3344915641ef79b26db4c3",
-            "group": "Germany"
-        },
-        {
             "name": "RTL+ SPORT EVENT 1",
             "url": "https://vavoo.to/vavoo-iptv/play/1853551406e4d58cd366f9",
             "group": "Germany"
@@ -21372,11 +21342,6 @@
         {
             "name": "RTL+ SPORT EVENT 10",
             "url": "https://vavoo.to/vavoo-iptv/play/332619566454d37b4b3c0b",
-            "group": "Germany"
-        },
-        {
-            "name": "RTL+ SPORT EVENT 2",
-            "url": "https://vavoo.to/vavoo-iptv/play/702188030d3d5a2294bd5",
             "group": "Germany"
         },
         {
@@ -21541,41 +21506,6 @@
         },
         {
             "name": "S",
-            "url": "https://vavoo.to/vavoo-iptv/play/108657081235c66ca86e43",
-            "group": "Germany"
-        },
-        {
-            "name": "S",
-            "url": "https://vavoo.to/vavoo-iptv/play/373094149437c08712df35",
-            "group": "Germany"
-        },
-        {
-            "name": "S",
-            "url": "https://vavoo.to/vavoo-iptv/play/147173107124bda7a1da07",
-            "group": "Germany"
-        },
-        {
-            "name": "S",
-            "url": "https://vavoo.to/vavoo-iptv/play/3153363605682a7546247",
-            "group": "Germany"
-        },
-        {
-            "name": "S",
-            "url": "https://vavoo.to/vavoo-iptv/play/18490270027a094843e3bd",
-            "group": "Germany"
-        },
-        {
-            "name": "S",
-            "url": "https://vavoo.to/vavoo-iptv/play/262174343528d7003d495b",
-            "group": "Germany"
-        },
-        {
-            "name": "S",
-            "url": "https://vavoo.to/vavoo-iptv/play/20352199612b57e3ee848e",
-            "group": "Germany"
-        },
-        {
-            "name": "S",
             "url": "https://vavoo.to/vavoo-iptv/play/13578162773c22055ea601",
             "group": "Germany"
         },
@@ -21657,16 +21587,6 @@
         {
             "name": "S",
             "url": "https://vavoo.to/vavoo-iptv/play/112128314f33b3baef6ad",
-            "group": "Germany"
-        },
-        {
-            "name": "S",
-            "url": "https://vavoo.to/vavoo-iptv/play/36731518974ab783c8f794",
-            "group": "Germany"
-        },
-        {
-            "name": "SAARLAND FERNSEHEN 2",
-            "url": "https://vavoo.to/vavoo-iptv/play/20606161440383774bfbf6",
             "group": "Germany"
         },
         {
@@ -21800,6 +21720,11 @@
             "group": "Germany"
         },
         {
+            "name": "SILVERLINE",
+            "url": "https://vavoo.to/vavoo-iptv/play/1235644615a6229f839698",
+            "group": "Germany"
+        },
+        {
             "name": "SIXX",
             "url": "https://vavoo.to/vavoo-iptv/play/8404401494599063b2e5e",
             "group": "Germany"
@@ -21840,16 +21765,6 @@
             "group": "Germany"
         },
         {
-            "name": "SKY 1 HD+",
-            "url": "https://vavoo.to/vavoo-iptv/play/771256431510afa12b5ca",
-            "group": "Germany"
-        },
-        {
-            "name": "SKY 1 HD+ (BACKUP)",
-            "url": "https://vavoo.to/vavoo-iptv/play/29534198320ba5870cf793",
-            "group": "Germany"
-        },
-        {
             "name": "SKY 24",
             "url": "https://vavoo.to/vavoo-iptv/play/149550166636630e709d1c",
             "group": "Germany"
@@ -21862,11 +21777,6 @@
         {
             "name": "SKY ACTION",
             "url": "https://vavoo.to/vavoo-iptv/play/1733411065b2efb3b8227",
-            "group": "Germany"
-        },
-        {
-            "name": "SKY ACTION HD",
-            "url": "https://vavoo.to/vavoo-iptv/play/24734341302aecfe20a40f",
             "group": "Germany"
         },
         {
@@ -22240,11 +22150,6 @@
             "group": "Germany"
         },
         {
-            "name": "SKY BUNDESLIGA []",
-            "url": "https://vavoo.to/vavoo-iptv/play/6337875b21cd118e52b",
-            "group": "Germany"
-        },
-        {
             "name": "SKY BUNDESLIGA 1",
             "url": "https://vavoo.to/vavoo-iptv/play/191799889671ca336f6fe3",
             "group": "Germany"
@@ -22257,11 +22162,6 @@
         {
             "name": "SKY BUNDESLIGA 1 (ONLY DURING EVENTS)",
             "url": "https://vavoo.to/vavoo-iptv/play/1163574068fe4ad6c398df",
-            "group": "Germany"
-        },
-        {
-            "name": "SKY BUNDESLIGA 1 UHD []",
-            "url": "https://vavoo.to/vavoo-iptv/play/3823922807325fb1419900",
             "group": "Germany"
         },
         {
@@ -22280,11 +22180,6 @@
             "group": "Germany"
         },
         {
-            "name": "SKY BUNDESLIGA 10 []",
-            "url": "https://vavoo.to/vavoo-iptv/play/615818486b0ab31b1cf92",
-            "group": "Germany"
-        },
-        {
             "name": "SKY BUNDESLIGA 10 HD",
             "url": "https://vavoo.to/vavoo-iptv/play/4105254911d2934d2656c4",
             "group": "Germany"
@@ -22297,11 +22192,6 @@
         {
             "name": "SKY BUNDESLIGA 2 (ONLY DURING EVENTS)",
             "url": "https://vavoo.to/vavoo-iptv/play/30711047167fbfb5cf3d75",
-            "group": "Germany"
-        },
-        {
-            "name": "SKY BUNDESLIGA 2 []",
-            "url": "https://vavoo.to/vavoo-iptv/play/33317623361feeaded8ced",
             "group": "Germany"
         },
         {
@@ -22325,11 +22215,6 @@
             "group": "Germany"
         },
         {
-            "name": "SKY BUNDESLIGA 3 []",
-            "url": "https://vavoo.to/vavoo-iptv/play/171747390c53f5eb7d1d3",
-            "group": "Germany"
-        },
-        {
             "name": "SKY BUNDESLIGA 4",
             "url": "https://vavoo.to/vavoo-iptv/play/31322829448bda0ccf77c1",
             "group": "Germany"
@@ -22342,11 +22227,6 @@
         {
             "name": "SKY BUNDESLIGA 4 (ONLY DURING EVENTS)",
             "url": "https://vavoo.to/vavoo-iptv/play/2295565181ea59181d269f",
-            "group": "Germany"
-        },
-        {
-            "name": "SKY BUNDESLIGA 4 []",
-            "url": "https://vavoo.to/vavoo-iptv/play/16359719d26b69996101",
             "group": "Germany"
         },
         {
@@ -22367,11 +22247,6 @@
         {
             "name": "SKY BUNDESLIGA 5 (ONLY DURING EVENTS)",
             "url": "https://vavoo.to/vavoo-iptv/play/1875783146380a4cdc819b",
-            "group": "Germany"
-        },
-        {
-            "name": "SKY BUNDESLIGA 5 []",
-            "url": "https://vavoo.to/vavoo-iptv/play/3428032953f2228cca682a",
             "group": "Germany"
         },
         {
@@ -22425,11 +22300,6 @@
             "group": "Germany"
         },
         {
-            "name": "SKY BUNDESLIGA 7 []",
-            "url": "https://vavoo.to/vavoo-iptv/play/23901406129d166b508db9",
-            "group": "Germany"
-        },
-        {
             "name": "SKY BUNDESLIGA 7 HD",
             "url": "https://vavoo.to/vavoo-iptv/play/36273632683ee800afe754",
             "group": "Germany"
@@ -22470,11 +22340,6 @@
             "group": "Germany"
         },
         {
-            "name": "SKY BUNDESLIGA 9 []",
-            "url": "https://vavoo.to/vavoo-iptv/play/261702987803de9bbee3ae",
-            "group": "Germany"
-        },
-        {
             "name": "SKY BUNDESLIGA 9 HD",
             "url": "https://vavoo.to/vavoo-iptv/play/338087886882264e52f7fa",
             "group": "Germany"
@@ -22487,6 +22352,16 @@
         {
             "name": "SKY CINEMA +1",
             "url": "https://vavoo.to/vavoo-iptv/play/13985008a11581fe9bf",
+            "group": "Germany"
+        },
+        {
+            "name": "SKY CINEMA +24",
+            "url": "https://vavoo.to/vavoo-iptv/play/980791089fceda20dca79",
+            "group": "Germany"
+        },
+        {
+            "name": "SKY CINEMA 1",
+            "url": "https://vavoo.to/vavoo-iptv/play/12794606493d8d8cd3b4fd",
             "group": "Germany"
         },
         {
@@ -22615,11 +22490,6 @@
             "group": "Germany"
         },
         {
-            "name": "SKY CINEMA FUN HD",
-            "url": "https://vavoo.to/vavoo-iptv/play/2703750927c3c65ac8a7d0",
-            "group": "Germany"
-        },
-        {
             "name": "SKY CINEMA HIGHLIGHT",
             "url": "https://vavoo.to/vavoo-iptv/play/17230464654288a0e58ea9",
             "group": "Germany"
@@ -22641,11 +22511,6 @@
         },
         {
             "name": "SKY CINEMA NOSTALGIE",
-            "url": "https://vavoo.to/vavoo-iptv/play/631616247786c3788e7af",
-            "group": "Germany"
-        },
-        {
-            "name": "SKY CINEMA NOSTALGIE",
             "url": "https://vavoo.to/vavoo-iptv/play/2973887952cd4dd5ba5f",
             "group": "Germany"
         },
@@ -22662,11 +22527,6 @@
         {
             "name": "SKY CINEMA PREMIEREN",
             "url": "https://vavoo.to/vavoo-iptv/play/3507019421158db3217f80",
-            "group": "Germany"
-        },
-        {
-            "name": "SKY CINEMA PREMIEREN +24",
-            "url": "https://vavoo.to/vavoo-iptv/play/2077331655b2a2fb2c4bcc",
             "group": "Germany"
         },
         {
@@ -22692,6 +22552,11 @@
         {
             "name": "SKY CINEMA PREMIEREN HD+",
             "url": "https://vavoo.to/vavoo-iptv/play/42658796007222e9d29cb7",
+            "group": "Germany"
+        },
+        {
+            "name": "SKY CINEMA SPECIAL",
+            "url": "https://vavoo.to/vavoo-iptv/play/805972699b2c2fe44c151",
             "group": "Germany"
         },
         {
@@ -22920,11 +22785,6 @@
             "group": "Germany"
         },
         {
-            "name": "SKY SELECT 1 [4K] []",
-            "url": "https://vavoo.to/vavoo-iptv/play/29338982959046026b0b03",
-            "group": "Germany"
-        },
-        {
             "name": "SKY SELECT 1 BOX",
             "url": "https://vavoo.to/vavoo-iptv/play/1652281656f96e11c6c244",
             "group": "Germany"
@@ -23037,6 +22897,26 @@
         {
             "name": "SKY SELECT 5",
             "url": "https://vavoo.to/vavoo-iptv/play/380274361b4aa0b361421",
+            "group": "Germany"
+        },
+        {
+            "name": "SKY SELECT 5",
+            "url": "https://vavoo.to/vavoo-iptv/play/1485365465952824d3a4d9",
+            "group": "Germany"
+        },
+        {
+            "name": "SKY SELECT 5",
+            "url": "https://vavoo.to/vavoo-iptv/play/260628011607d037f60016",
+            "group": "Germany"
+        },
+        {
+            "name": "SKY SELECT 5 [4K] []",
+            "url": "https://vavoo.to/vavoo-iptv/play/1852233377d44fef991acf",
+            "group": "Germany"
+        },
+        {
+            "name": "SKY SELECT 5 HD",
+            "url": "https://vavoo.to/vavoo-iptv/play/2557201993985e09299f27",
             "group": "Germany"
         },
         {
@@ -23195,11 +23075,6 @@
             "group": "Germany"
         },
         {
-            "name": "SKY SERIEN & SHOWS HD",
-            "url": "https://vavoo.to/vavoo-iptv/play/3353964677b3a30e6544a3",
-            "group": "Germany"
-        },
-        {
             "name": "SKY SERIEN & SHOWS+",
             "url": "https://vavoo.to/vavoo-iptv/play/216459987203f5945303fe",
             "group": "Germany"
@@ -23310,11 +23185,6 @@
             "group": "Germany"
         },
         {
-            "name": "SKY SPORT 6 HD",
-            "url": "https://vavoo.to/vavoo-iptv/play/463237157314e6d840607",
-            "group": "Germany"
-        },
-        {
             "name": "SKY SPORT 7",
             "url": "https://vavoo.to/vavoo-iptv/play/2972030035baf7f7dca0a2",
             "group": "Germany"
@@ -23335,11 +23205,6 @@
             "group": "Germany"
         },
         {
-            "name": "SKY SPORT 8 HD",
-            "url": "https://vavoo.to/vavoo-iptv/play/23634792766d334318406",
-            "group": "Germany"
-        },
-        {
             "name": "SKY SPORT 9",
             "url": "https://vavoo.to/vavoo-iptv/play/236268082e90deb789bcb",
             "group": "Germany"
@@ -23347,11 +23212,6 @@
         {
             "name": "SKY SPORT 9 (MATCH TIME)",
             "url": "https://vavoo.to/vavoo-iptv/play/2454960312cf3871fa5939",
-            "group": "Germany"
-        },
-        {
-            "name": "SKY SPORT 9 HD",
-            "url": "https://vavoo.to/vavoo-iptv/play/32671258975ee204f512e7",
             "group": "Germany"
         },
         {
@@ -23390,6 +23250,11 @@
             "group": "Germany"
         },
         {
+            "name": "SKY SPORT F1 HD (LOCAL)",
+            "url": "https://vavoo.to/vavoo-iptv/play/215180530040e6074acbfa",
+            "group": "Germany"
+        },
+        {
             "name": "SKY SPORT GOLF",
             "url": "https://vavoo.to/vavoo-iptv/play/4101211079586254d273ae",
             "group": "Germany"
@@ -23420,11 +23285,6 @@
             "group": "Germany"
         },
         {
-            "name": "SKY SPORT NEWS",
-            "url": "https://vavoo.to/vavoo-iptv/play/41568543313e885fb5b976",
-            "group": "Germany"
-        },
-        {
             "name": "SKY SPORT NEWS HD",
             "url": "https://vavoo.to/vavoo-iptv/play/2534839650df1f2665f900",
             "group": "Germany"
@@ -23440,6 +23300,11 @@
             "group": "Germany"
         },
         {
+            "name": "SKY SPORT PREMIER LEAGUE []",
+            "url": "https://vavoo.to/vavoo-iptv/play/2630403198771ace3a18e1",
+            "group": "Germany"
+        },
+        {
             "name": "SKY SPORT TENNIS",
             "url": "https://vavoo.to/vavoo-iptv/play/226973512188ede053f7c2",
             "group": "Germany"
@@ -23452,11 +23317,6 @@
         {
             "name": "SKY SPORT TOP EVENT",
             "url": "https://vavoo.to/vavoo-iptv/play/3259673333d1927f8d89a8",
-            "group": "Germany"
-        },
-        {
-            "name": "SKY SPORT TOP EVENT []",
-            "url": "https://vavoo.to/vavoo-iptv/play/1828977918d2d1fa4ed6db",
             "group": "Germany"
         },
         {
@@ -23575,11 +23435,6 @@
             "group": "Germany"
         },
         {
-            "name": "SPORT DIGITAL FHD",
-            "url": "https://vavoo.to/vavoo-iptv/play/312645496b88d4bff5366",
-            "group": "Germany"
-        },
-        {
             "name": "SPORT DIGITAL HD",
             "url": "https://vavoo.to/vavoo-iptv/play/362111501321dab5bfdb57",
             "group": "Germany"
@@ -23622,11 +23477,6 @@
         {
             "name": "SPORTDIGITAL 1+",
             "url": "https://vavoo.to/vavoo-iptv/play/7078169291b641b84ff3d",
-            "group": "Germany"
-        },
-        {
-            "name": "SPORTDIGITAL 1+ []",
-            "url": "https://vavoo.to/vavoo-iptv/play/1111961105f456004d282d",
             "group": "Germany"
         },
         {
@@ -24480,11 +24330,6 @@
             "group": "Germany"
         },
         {
-            "name": "ZDF [SAT] []",
-            "url": "https://vavoo.to/vavoo-iptv/play/14579195794c6d94de16d8",
-            "group": "Germany"
-        },
-        {
             "name": "ZDF HD",
             "url": "https://vavoo.to/vavoo-iptv/play/2357166742945b42426750",
             "group": "Germany"
@@ -24689,6 +24534,11 @@
         {
             "name": "BOING",
             "url": "https://vavoo.to/vavoo-iptv/play/3022771961a341b55db1c5",
+            "group": "Italy"
+        },
+        {
+            "name": "BOOMERANG",
+            "url": "https://vavoo.to/vavoo-iptv/play/270562780243aa8d36614f",
             "group": "Italy"
         },
         {
@@ -25014,11 +24864,6 @@
         {
             "name": "EUROSPORT 2",
             "url": "https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e",
-            "group": "Italy"
-        },
-        {
-            "name": "EUROSPORT 2 TIMVISION",
-            "url": "https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb",
             "group": "Italy"
         },
         {
@@ -25379,6 +25224,11 @@
         {
             "name": "NICK JR",
             "url": "https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065",
+            "group": "Italy"
+        },
+        {
+            "name": "NICKELODEON",
+            "url": "https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c",
             "group": "Italy"
         },
         {
@@ -25937,6 +25787,11 @@
             "group": "Italy"
         },
         {
+            "name": "SKY NATURE",
+            "url": "https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2",
+            "group": "Italy"
+        },
+        {
             "name": "SKY PRIMAFILA 1",
             "url": "https://vavoo.to/vavoo-iptv/play/194468239430d8fe263231",
             "group": "Italy"
@@ -26489,6 +26344,11 @@
         {
             "name": "TRENTINO TV",
             "url": "https://vavoo.to/vavoo-iptv/play/2764553737f817b6d4f583",
+            "group": "Italy"
+        },
+        {
+            "name": "TRENTINO TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/27978570454e40f7218cf4",
             "group": "Italy"
         },
         {
@@ -28071,6 +27931,11 @@
             "group": "Poland"
         },
         {
+            "name": "ATM ROZRYWKA TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/35386927546195f351f1d",
+            "group": "Poland"
+        },
+        {
             "name": "AXN",
             "url": "https://vavoo.to/vavoo-iptv/play/2201371462e1b6531e6ea6",
             "group": "Poland"
@@ -28671,11 +28536,6 @@
             "group": "Poland"
         },
         {
-            "name": "ELEVEN SPORTS 2 HD",
-            "url": "https://vavoo.to/vavoo-iptv/play/30444977443d9e219effc9",
-            "group": "Poland"
-        },
-        {
             "name": "ELEVEN SPORTS 3",
             "url": "https://vavoo.to/vavoo-iptv/play/24477432326f7a64fc51a4",
             "group": "Poland"
@@ -28698,11 +28558,6 @@
         {
             "name": "ELEVEN SPORTS 4",
             "url": "https://vavoo.to/vavoo-iptv/play/813632134ccfe6e781066",
-            "group": "Poland"
-        },
-        {
-            "name": "ELEVEN SPORTS 4 HD",
-            "url": "https://vavoo.to/vavoo-iptv/play/19309733998791392acd28",
             "group": "Poland"
         },
         {
@@ -29493,11 +29348,6 @@
         {
             "name": "ROMANCE TV",
             "url": "https://vavoo.to/vavoo-iptv/play/29370503837c127555ca20",
-            "group": "Poland"
-        },
-        {
-            "name": "SCI-FI",
-            "url": "https://vavoo.to/vavoo-iptv/play/1230975346c2fa99957106",
             "group": "Poland"
         },
         {
@@ -31148,6 +30998,11 @@
             "group": "Portugal"
         },
         {
+            "name": "SPORT TV 3 (BACKUP)",
+            "url": "https://vavoo.to/vavoo-iptv/play/3033626759881077a52574",
+            "group": "Portugal"
+        },
+        {
             "name": "SPORT TV 3 HD",
             "url": "https://vavoo.to/vavoo-iptv/play/29239696323c3367d22195",
             "group": "Portugal"
@@ -31817,6 +31672,11 @@
         {
             "name": "DIGI 24 HD",
             "url": "https://vavoo.to/vavoo-iptv/play/2228529603b328f4212055",
+            "group": "Romania"
+        },
+        {
+            "name": "DIGI 4K TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/2467663593e1ad36af512d",
             "group": "Romania"
         },
         {
@@ -32873,6 +32733,11 @@
         },
         {
             "name": "BOOMERANG",
+            "url": "https://vavoo.to/vavoo-iptv/play/2520496704d469ed1d760c",
+            "group": "Russia"
+        },
+        {
+            "name": "BOOMERANG",
             "url": "https://vavoo.to/vavoo-iptv/play/427820695e1f57b2eddeb",
             "group": "Russia"
         },
@@ -33519,6 +33384,11 @@
         {
             "name": "MIR",
             "url": "https://vavoo.to/vavoo-iptv/play/31840107842565adf1ebf2",
+            "group": "Russia"
+        },
+        {
+            "name": "MIR 24",
+            "url": "https://vavoo.to/vavoo-iptv/play/3982716238abeb14ba268d",
             "group": "Russia"
         },
         {
@@ -34402,6 +34272,11 @@
             "group": "Russia"
         },
         {
+            "name": "КИНОПРЕМЬЕРА HD",
+            "url": "https://vavoo.to/vavoo-iptv/play/33437147685e2915da08fe",
+            "group": "Russia"
+        },
+        {
             "name": "КИНОСВИДАНИЕ",
             "url": "https://vavoo.to/vavoo-iptv/play/3375899100e75cba37cf6b",
             "group": "Russia"
@@ -35259,6 +35134,11 @@
             "group": "Spain"
         },
         {
+            "name": "CANAL DONANA",
+            "url": "https://vavoo.to/vavoo-iptv/play/21801522766d228ecc4a9f",
+            "group": "Spain"
+        },
+        {
             "name": "CANAL EXTREMADURA",
             "url": "https://vavoo.to/vavoo-iptv/play/3410008380b13b8267fb6b",
             "group": "Spain"
@@ -35999,6 +35879,11 @@
             "group": "Spain"
         },
         {
+            "name": "MOVISTAR LIGA DE CAMPEONES",
+            "url": "https://vavoo.to/vavoo-iptv/play/12757844343f601bb69fdf",
+            "group": "Spain"
+        },
+        {
             "name": "MOVISTAR LIGA DE CAMPEONES 1 HD (ONLY EVENT)",
             "url": "https://vavoo.to/vavoo-iptv/play/1079960250bf7fa0932bdc",
             "group": "Spain"
@@ -36651,13 +36536,13 @@
             "group": "Turkey"
         },
         {
-            "name": "4K TR: DISCOVERY CHANNEL HD",
-            "url": "https://vavoo.to/vavoo-iptv/play/4017734592f45fd8456678",
+            "name": "4K TR: DISNEY JUNIOR",
+            "url": "https://vavoo.to/vavoo-iptv/play/6492287228e9a72f932b5",
             "group": "Turkey"
         },
         {
-            "name": "4K TR: DISNEY JUNIOR",
-            "url": "https://vavoo.to/vavoo-iptv/play/6492287228e9a72f932b5",
+            "name": "4K TR: DMAX HD",
+            "url": "https://vavoo.to/vavoo-iptv/play/869937351ec185ded43b6",
             "group": "Turkey"
         },
         {
@@ -39416,11 +39301,6 @@
             "group": "Turkey"
         },
         {
-            "name": "FOX TV HD (H265)",
-            "url": "https://vavoo.to/vavoo-iptv/play/1345288490af706454a2b2",
-            "group": "Turkey"
-        },
-        {
             "name": "FOX TV HEVC",
             "url": "https://vavoo.to/vavoo-iptv/play/2907081311ea1629502e0f",
             "group": "Turkey"
@@ -39521,18 +39401,8 @@
             "group": "Turkey"
         },
         {
-            "name": "GLOBAL HABER HD",
-            "url": "https://vavoo.to/vavoo-iptv/play/1224377838995614ed0843",
-            "group": "Turkey"
-        },
-        {
             "name": "GONCA TV",
             "url": "https://vavoo.to/vavoo-iptv/play/3241393177ad99ccefaa75",
-            "group": "Turkey"
-        },
-        {
-            "name": "GONCA TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/2078775973ee3b3949894b",
             "group": "Turkey"
         },
         {
@@ -41736,13 +41606,13 @@
             "group": "Turkey"
         },
         {
-            "name": "TABII SPOR 5 UHD",
-            "url": "https://vavoo.to/vavoo-iptv/play/383933219867eefb660622",
+            "name": "TABII SPOR 6",
+            "url": "https://vavoo.to/vavoo-iptv/play/40820967253b1d74e19a7f",
             "group": "Turkey"
         },
         {
-            "name": "TABII SPOR 6",
-            "url": "https://vavoo.to/vavoo-iptv/play/40820967253b1d74e19a7f",
+            "name": "TABII SPOR 6 HD",
+            "url": "https://vavoo.to/vavoo-iptv/play/270984838ca5cfbf75daa",
             "group": "Turkey"
         },
         {
@@ -42522,7 +42392,17 @@
         },
         {
             "name": "TV 8",
+            "url": "https://vavoo.to/vavoo-iptv/play/19082658164debc10cdc44",
+            "group": "Turkey"
+        },
+        {
+            "name": "TV 8",
             "url": "https://vavoo.to/vavoo-iptv/play/3472698776e30314a5e33a",
+            "group": "Turkey"
+        },
+        {
+            "name": "TV 85",
+            "url": "https://vavoo.to/vavoo-iptv/play/2159436641ac7f510d0f06",
             "group": "Turkey"
         },
         {
@@ -42993,6 +42873,11 @@
             "group": "United Kingdom"
         },
         {
+            "name": "ARISE NEWS",
+            "url": "https://vavoo.to/vavoo-iptv/play/3532839539b4c04b25cec1",
+            "group": "United Kingdom"
+        },
+        {
             "name": "ARY DIGITAL",
             "url": "https://vavoo.to/vavoo-iptv/play/373511987781fe34ce3351",
             "group": "United Kingdom"
@@ -43085,11 +42970,6 @@
         {
             "name": "BBC ONE EAST E",
             "url": "https://vavoo.to/vavoo-iptv/play/3049102539402e34a458db",
-            "group": "United Kingdom"
-        },
-        {
-            "name": "BBC ONE EAST W",
-            "url": "https://vavoo.to/vavoo-iptv/play/2946324521d6a4cca74c2d",
             "group": "United Kingdom"
         },
         {
@@ -44513,6 +44393,11 @@
             "group": "United Kingdom"
         },
         {
+            "name": "POP MAX",
+            "url": "https://vavoo.to/vavoo-iptv/play/1954568340c56d543f5f0f",
+            "group": "United Kingdom"
+        },
+        {
             "name": "POP MAX (BACKUP)",
             "url": "https://vavoo.to/vavoo-iptv/play/1048093766454249e4ff03",
             "group": "United Kingdom"
@@ -44703,6 +44588,11 @@
             "group": "United Kingdom"
         },
         {
+            "name": "SKY 2",
+            "url": "https://vavoo.to/vavoo-iptv/play/200182456238395f830217",
+            "group": "United Kingdom"
+        },
+        {
             "name": "SKY ARTS",
             "url": "https://vavoo.to/vavoo-iptv/play/1716764664c6926f59762a",
             "group": "United Kingdom"
@@ -44869,6 +44759,11 @@
         },
         {
             "name": "SKY SHOWCASE",
+            "url": "https://vavoo.to/vavoo-iptv/play/4231850871da3c531a91ca",
+            "group": "United Kingdom"
+        },
+        {
+            "name": "SKY SHOWCASE",
             "url": "https://vavoo.to/vavoo-iptv/play/4161260693ed71d0b6ee20",
             "group": "United Kingdom"
         },
@@ -44880,6 +44775,11 @@
         {
             "name": "SKY SPORT CRICKET",
             "url": "https://vavoo.to/vavoo-iptv/play/2352556888a4bed6892977",
+            "group": "United Kingdom"
+        },
+        {
+            "name": "SKY SPORT GOLF",
+            "url": "https://vavoo.to/vavoo-iptv/play/1870352128f42f18399dff",
             "group": "United Kingdom"
         },
         {
@@ -45099,6 +44999,11 @@
         },
         {
             "name": "SKY SPORTS MIX",
+            "url": "https://vavoo.to/vavoo-iptv/play/1694085323bf096cb8f33f",
+            "group": "United Kingdom"
+        },
+        {
+            "name": "SKY SPORTS MIX",
             "url": "https://vavoo.to/vavoo-iptv/play/3733612719fb39b32b4b51",
             "group": "United Kingdom"
         },
@@ -45110,6 +45015,11 @@
         {
             "name": "SKY SPORTS MIX FHD",
             "url": "https://vavoo.to/vavoo-iptv/play/35909449393537b0168a85",
+            "group": "United Kingdom"
+        },
+        {
+            "name": "SKY SPORTS MIX HD",
+            "url": "https://vavoo.to/vavoo-iptv/play/3026248510d5959cc5ae73",
             "group": "United Kingdom"
         },
         {
@@ -45373,6 +45283,11 @@
             "group": "United Kingdom"
         },
         {
+            "name": "SKY STORE SCI-FI",
+            "url": "https://vavoo.to/vavoo-iptv/play/158576647791ba18f23f88",
+            "group": "United Kingdom"
+        },
+        {
             "name": "SKY WITNESS",
             "url": "https://vavoo.to/vavoo-iptv/play/10607913372ace1ef3549a",
             "group": "United Kingdom"
@@ -45488,8 +45403,23 @@
             "group": "United Kingdom"
         },
         {
+            "name": "THE PET COLLECTIVE",
+            "url": "https://vavoo.to/vavoo-iptv/play/1464425109c4405479e847",
+            "group": "United Kingdom"
+        },
+        {
+            "name": "TINY POP",
+            "url": "https://vavoo.to/vavoo-iptv/play/1991915821d687a283d0f4",
+            "group": "United Kingdom"
+        },
+        {
             "name": "TINY POP",
             "url": "https://vavoo.to/vavoo-iptv/play/219333185220ddd11ce4e8",
+            "group": "United Kingdom"
+        },
+        {
+            "name": "TINY POP+1",
+            "url": "https://vavoo.to/vavoo-iptv/play/1414100609c6fe3b945198",
             "group": "United Kingdom"
         },
         {
@@ -45598,6 +45528,11 @@
             "group": "United Kingdom"
         },
         {
+            "name": "UKFHD : TNT SPORTS BOX OFFICE",
+            "url": "https://vavoo.to/vavoo-iptv/play/790540258bea97eac1b61",
+            "group": "United Kingdom"
+        },
+        {
             "name": "UKHD : TNT SPORTS BOX OFFICE",
             "url": "https://vavoo.to/vavoo-iptv/play/2017227120dae2044a9fc",
             "group": "United Kingdom"
@@ -45670,6 +45605,11 @@
         {
             "name": "WATCH",
             "url": "https://vavoo.to/vavoo-iptv/play/3886596780f813762e1908",
+            "group": "United Kingdom"
+        },
+        {
+            "name": "WION HD",
+            "url": "https://vavoo.to/vavoo-iptv/play/383994846657b811122d45",
             "group": "United Kingdom"
         },
         {
