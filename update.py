@@ -12,7 +12,8 @@ MY_CHANNELS = [
     "TRT 1",
     "TV8",
     "FOX",
-    "BEIN SPORTS 1"
+    "BEIN SPORTS 1",
+    "24 i"
 ]
 
 def update_m3u():
