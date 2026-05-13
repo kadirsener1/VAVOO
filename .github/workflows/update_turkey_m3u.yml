@@ -1,0 +1,70 @@
+# .github/workflows/update_turkey_m3u.yml
+
+name: Update Turkey M3U Playlist
+
+on:
+  # 2 saatte bir çalıştır
+  schedule:
+    - cron: '0 */2 * * *'
+  
+  # Manuel tetikleme
+  workflow_dispatch:
+  
+  # Push ile tetikleme (ilk kurulum için)
+  push:
+    branches:
+      - main
+    paths:
+      - 'filter_turkey.py'
+      - '.github/workflows/update_turkey_m3u.yml'
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+    
+    steps:
+      # 1. Repo'yu checkout et
+      - name: 📂 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # 2. Python kurulumu
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # 3. Bağımlılıkları yükle
+      - name: 📦 Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      # 4. Script'i çalıştır
+      - name: 🚀 Run Turkey M3U Filter Script
+        run: python filter_turkey.py
+
+      # 5. Tarih bilgisini al
+      - name: 📅 Get current date
+        id: date
+        run: echo "date=$(date +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_OUTPUT
+
+      # 6. Değişiklikleri commit ve push et
+      - name: 📤 Commit and Push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add turkey.m3u
+          
+          # Değişiklik var mı kontrol et
+          if git diff --staged --quiet; then
+            echo "ℹ️ Değişiklik yok, commit yapılmadı."
+          else
+            git commit -m "🇹🇷 Turkey M3U güncellendi - ${{ steps.date.outputs.date }}"
+            git push
+            echo "✅ Değişiklikler push edildi."
+          fi
