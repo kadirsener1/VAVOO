@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Turkey",24 m3u8
+#EXTINF:-1 group-title="Turkey",24m
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 https://vavoo.to/vavoo-iptv/play/17029379329ed4b84db05f.m3u8
