@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="Turkey",4K TR: SHOW TV HD
+
+#EXTINF:-1 group-title="Turkey",4K TR: NOW HD
+
+#EXTINF:-1 group-title="Turkey",4K TR: 24 HD
+
 #EXTINF:-1 group-title="Turkey",4K TR: ATV HD
 https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/4559304258567c5d6cd2a
 
@@ -15,5 +21,3 @@ https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv
 https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/14539175875ea1ccde8ce
 #EXTINF:-1 group-title="Turkey",BEIN SPORTS 1
 https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/300113394ceebba66c8ad
-#EXTINF:-1 group-title="Turkey",24 i
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
