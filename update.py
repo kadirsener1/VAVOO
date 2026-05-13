@@ -25,6 +25,10 @@ CHANNEL_MAP = {
     "TV8": "TV8",
     "NOW TV": "NOW TV",
     "BEIN SPORTS 1": "BEIN SPORTS 1",
+    "BEIN SPORTS 1 (720P)": "BEIN SPORTS 1 (720P)",
+    "BEIN SPORTS 1 (720PFEED)": "BEIN SPORTS 1 (720PFEED)",
+    "BEIN SPORTS 1 [LIVE DURING EVENTS ONLY]": "BEIN SPORTS 1 [LIVE DURING EVENTS ONLY]",
+    
 }
 def normalize(text):
     return re.sub(r"\s+", " ", text.casefold().strip())
