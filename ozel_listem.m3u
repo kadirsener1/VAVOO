@@ -22,6 +22,13 @@ https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv
 #EXTINF:-1 group-title="Turkey",FOX
 https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/14539175875ea1ccde8ce
 
+
+#EXTINF:-1 group-title="Turkey",BEIN 1 FEED (720P)
+https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/1363827223a1c98515d612
+#EXTINF:-1 group-title="Turkey",BEIN 1 SD (360P)
+https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/3692337241ec1b0872b06e
+#EXTINF:-1 group-title="Turkey",BEIN 1 SD (480P)
+
 #EXTINF:-1 group-title="Turkey",BEIN SPORTS 1
 https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/300113394ceebba66c8ad
 #EXTINF:-1 group-title="Turkey",BEIN SPORTS 1 (720P)
