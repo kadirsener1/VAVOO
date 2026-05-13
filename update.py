@@ -15,6 +15,7 @@ CREATE_BACKUP = True
 # Sol taraf: kendi m3u dosyandaki kanal adı
 # Sağ taraf: kaynak m3u içindeki aranacak kanal adı
 CHANNEL_MAP = {
+    "24 RAW ": "24 RAW",
     "24 TV ": "24",
     "TRT 1": "TRT 1",
     "KANAL D": "KANAL D",
