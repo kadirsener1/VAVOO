@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 group-title="Turkey",4K TR: KANAL D HD
+https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/16776796840463f6dcff41
+#EXTINF:-1 group-title="Turkey",4K TR: STAR TV HD
+https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/219297129315c074c03f8e
+#EXTINF:-1 group-title="Turkey",4K TR: ATV HD
+https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/2325261286cc81b01cf95d
+#EXTINF:-1 group-title="Turkey",4K TR: TRT 1 HD
+https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/1762199258e25181300f62
+#EXTINF:-1 group-title="Turkey",4K TR: TV8 HD
+https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/2693299013444c726b1ee4
+#EXTINF:-1 group-title="Turkey",FOX
+https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/14539175875ea1ccde8ce
+#EXTINF:-1 group-title="Turkey",BEIN SPORTS 1
+https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/300113394ceebba66c8ad
+#EXTINF:-1 group-title="Turkey",24 i
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
