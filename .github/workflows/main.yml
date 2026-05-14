@@ -1,7 +1,7 @@
 name: Update özel M3U Link
 on:
   schedule:
-    - cron: '0 0 * * *' # Her gece 00:00'da çalışır
+    - cron: '0 */2 * * *' # Her gece 00:00'da çalışır
   workflow_dispatch: # Manuel çalıştırma butonu ekler
 
 jobs:
