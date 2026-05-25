@@ -1,37 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/bein.png" group-title="Spor",beIN Sports 1-Gav
-https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/300113394ceebba66c8ad
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/bein.png" group-title="Spor",beIN Sports 1-R
-https://ronaldo.magnitude.workers.dev/?url=https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
-#EXTINF:-1 tvg-id="selcukbeinsports1" tvg-logo="tvg-logo="https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/bein.png"" group-title="Spor",Bein Sports 1-SS
-#EXTVLCOPT:http-referrer= https://www.selcuksportshd1825.xyz/
-https://dga1op10s1u3leo.2ec2f887981228.click/live/selcukbeinsports1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/bein.png" group-title="Spor",beIN Sports 1-HİT refe
-#EXTVLCOPT:http-referrer= https://www.hitv.fun
-https://api.hitnova.net/s/zirve/mono.m3u8
-
-#EXTINF:-1 group-title="Turkey",4K TR: 24 RAW1
-https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/536029186d3e964e7e9db
-#EXTINF:-1 group-title="Turkey",4K TR: SHOW TV HD
-https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/2485009235d60801ad626b
-#EXTINF:-1 group-title="Turkey",4K TR: NOW TV HD
-https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/919108696a1b98997373b
-#EXTINF:-1 group-title="Turkey",4K TR: 24 TV HD
-https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/17029379329ed4b84db05f
-#EXTINF:-1 group-title="Turkey",4K TR: ATV HD
-https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/4559304258567c5d6cd2a
-
-#EXTINF:-1 group-title="Turkey",4K TR: KANAL D HD
-https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/231583905a5fd80471ac8
-#EXTINF:-1 group-title="Turkey",4K TR: STAR TV HD
-https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/69930592375bf26f3bb25
-
-#EXTINF:-1 group-title="Turkey",4K TR: TRT 1 HD
-https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/2041026135d10f9c36ff66
-#EXTINF:-1 group-title="Turkey",4K TR: TV8 HD
-https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/2693299013444c726b1ee4
-#EXTINF:-1 group-title="Turkey",FOX
-https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/14539175875ea1ccde8ce
 
 #EXTINF:-1 group-title="SPOR KANALLARI" tvg-logo="https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/beIN-SPORTS-1-HD.png" tvg-id="BeinSports1.tr",BEIN SPOTS1 SD
 https://vavooproxy.magnitude.workers.dev/resolve?url=https://vavoo.to/vavoo-iptv/play/143239535a2e3c23c1d16
