@@ -14,12 +14,6 @@ PROXY_LIST = [
     for i in range(1, 51)
 ]
 
-# Eğer numarasız olan ana proxy'yi de eklemek istersen, üstteki PROXY_LIST yerine bunu kullan:
-# PROXY_LIST = ["https://vavooproxy.magnitude.workers.dev/resolve?url="] + [
-#     f"https://vavooproxy{i}.magnitude.workers.dev/resolve?url="
-#     for i in range(1, 51)
-# ]
-
 # Çıktı dosyası
 OUTPUT_FILE = "turkey.m3u"
 
@@ -37,55 +31,58 @@ def parse_and_filter_turkey(m3u_content):
     """M3U içeriğini parse et ve Turkey kategorili kanalları filtrele"""
     lines = m3u_content.strip().splitlines()
     turkey_entries = []
-    
+
     i = 0
     total_channels = 0
     turkey_count = 0
-    
+
+    # Proxy kullanım sayacı
+    proxy_usage = {proxy: 0 for proxy in PROXY_LIST}
+
     while i < len(lines):
         line = lines[i].strip()
-        
-        # EXTINF satırını bul
+
         if line.startswith("#EXTINF"):
             total_channels += 1
             extinf_line = line
-            
-            # Bir sonraki satır URL olmalı
+
             if i + 1 < len(lines):
                 url_line = lines[i + 1].strip()
-                
-                # Turkey kontrolü
                 is_turkey = False
-                
-                # group-title="Turkey" veya group-title="Türkiye" kontrolü
+
                 if re.search(r'group-title\s*=\s*"[^"]*(?:Turkey|Türkiye|TR|TURKEY|TÜRKİYE)[^"]*"', extinf_line, re.IGNORECASE):
                     is_turkey = True
-                
-                # tvg-country="TR" kontrolü
+
                 if re.search(r'tvg-country\s*=\s*"[^"]*(?:TR|TUR)[^"]*"', extinf_line, re.IGNORECASE):
                     is_turkey = True
-                
-                # Kategori/grup adında Turkey geçiyorsa
+
                 if re.search(r'(?:Turkey|Türkiye|TURKEY|TÜRKİYE)', extinf_line, re.IGNORECASE):
                     is_turkey = True
-                
+
                 if is_turkey:
                     turkey_count += 1
-                    # URL'nin başına rastgele proxy ekle
                     if url_line and not url_line.startswith("#"):
                         selected_proxy = random.choice(PROXY_LIST)
+                        proxy_usage[selected_proxy] += 1
                         proxied_url = f"{selected_proxy}{url_line}"
                         turkey_entries.append(extinf_line)
                         turkey_entries.append(proxied_url)
-                
+
                 i += 2
                 continue
-        
+
         i += 1
-    
-    print(f"📊 Toplam kanal: {total_channels}")
+
+    print(f"\n📊 Toplam kanal: {total_channels}")
     print(f"🇹🇷 Turkey kanalları: {turkey_count}")
-    
+
+    # Proxy dağılımını göster
+    print(f"\n🔀 Proxy dağılımı:")
+    for idx, proxy in enumerate(PROXY_LIST, 1):
+        count = proxy_usage[proxy]
+        short_name = f"vavooproxy{idx}"
+        print(f"   Proxy {idx:2d} ({short_name}): {count} kanal")
+
     return turkey_entries
 
 
@@ -95,29 +92,27 @@ def create_m3u_file(entries, output_file):
         f.write("#EXTM3U\n")
         for entry in entries:
             f.write(entry + "\n")
-    
-    print(f"💾 Dosya oluşturuldu: {output_file}")
+
+    print(f"\n💾 Dosya oluşturuldu: {output_file}")
     print(f"📄 Toplam satır: {len(entries) + 1}")
 
 
 def main():
     try:
-        # 1. M3U dosyasını indir
+        print(f"🔀 {len(PROXY_LIST)} proxy yüklendi\n")
+
         m3u_content = download_m3u(SOURCE_URL)
-        
-        # 2. Turkey kanallarını filtrele ve rastgele proxy ekle
         turkey_entries = parse_and_filter_turkey(m3u_content)
-        
+
         if not turkey_entries:
             print("⚠️ Turkey kategorisinde kanal bulunamadı!")
             create_m3u_file([], OUTPUT_FILE)
             return
-        
-        # 3. Yeni M3U dosyasını oluştur
+
         create_m3u_file(turkey_entries, OUTPUT_FILE)
-        
+
         print("\n✅ İşlem başarıyla tamamlandı!")
-        
+
     except requests.exceptions.RequestException as e:
         print(f"❌ İndirme hatası: {e}")
         raise
