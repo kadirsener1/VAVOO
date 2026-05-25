@@ -15,15 +15,6 @@ CREATE_BACKUP = True
 # Sol taraf: kendi m3u dosyandaki kanal adı
 # Sağ taraf: kaynak m3u içindeki aranacak kanal adı
 CHANNEL_MAP = {
-    "24 RAW ": "24 RAW",
-    "24 TV ": "24",
-    "TRT 1": "TRT 1",
-    "KANAL D": "KANAL D",
-    "SHOW TV": "SHOW TV",
-    "STAR TV": "STAR TV",
-    "ATV": "ATV",
-    "TV8": "TV8",
-    "NOW TV": "NOW TV",
     "BEIN SPORTS 1": "BEIN SPORTS 1",
     "BEIN SPORTS 1 (720P)": "BEIN SPORTS 1 (720P)",
     "BEIN SPORTS 1 (720PFEED)": "BEIN SPORTS 1 (720PFEED)",
