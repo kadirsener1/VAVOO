@@ -10,7 +10,7 @@ SOURCE_URL = "https://raw.githubusercontent.com/kadirsener1/VAVOO/refs/heads/mai
 
 # 1'den 50'ye kadar proxy listesi
 PROXY_LIST = [
-    f"https://vavooproxy{i}.magnitude.workers.dev/resolve?url="
+    f"https://vavootest.magnitude.workers.dev/manifest.m3u8?url="
     for i in range(1, 51)
 ]
 
