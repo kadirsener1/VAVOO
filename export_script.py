@@ -56,7 +56,7 @@ def main():
                         
                         if url:
                             m3u_lines.append(f'#EXTINF:-1 group-title="{country}",{clean_name}')
-                            m3u_lines.append(url)
+                            m3u_lines.append(https://vavoo.magnitude.workers.dev/manifest.m3u8?url=url)
                             full_json_data[country].append({"name": clean_name, "url": url, "group": country})
                     
                     # Prüfen, ob es eine weitere Seite gibt
