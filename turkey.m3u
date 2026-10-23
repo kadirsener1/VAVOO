@@ -111,12 +111,12 @@ https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vu
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/988691374172058ef3d50
 #EXTINF:-1 group-title="Turkey",4K TR: NOW HD
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2578197593a87a0ba68631
+#EXTINF:-1 group-title="Turkey",4K TR: NR1 DAMAR HD
+https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2432556224e96906513616
 #EXTINF:-1 group-title="Turkey",4K TR: NTV HD
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2073292907cc209d200015
 #EXTINF:-1 group-title="Turkey",4K TR: NUMBER1 TURK HD
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/40428875846b4e812374d1
-#EXTINF:-1 group-title="Turkey",4K TR: NUMBER1 TV HD
-https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/152660259946902d02c5c6
 #EXTINF:-1 group-title="Turkey",4K TR: POWER TURK HD
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/42444473843632d84d102d
 #EXTINF:-1 group-title="Turkey",4K TR: POWER TV HD
@@ -141,12 +141,16 @@ https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vu
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/18971594736fd7a4c68deb
 #EXTINF:-1 group-title="Turkey",4K TR: S SPORT
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/21232735984a3f0b463d66
+#EXTINF:-1 group-title="Turkey",4K TR: S SPORT 2
+https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/9369082742fdb8ca83c62
 #EXTINF:-1 group-title="Turkey",4K TR: SHOW TV HD
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/8795889605c7795ac9528
 #EXTINF:-1 group-title="Turkey",4K TR: SOZCU TV
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/960578312ee36cc17c5d2
 #EXTINF:-1 group-title="Turkey",4K TR: SPOR SMART
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3159604752e1cba547bb
+#EXTINF:-1 group-title="Turkey",4K TR: SPORTS TV HD
+https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2429298798dcd505d1ab4b
 #EXTINF:-1 group-title="Turkey",4K TR: STAR TV HD
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/219297129315c074c03f8e
 #EXTINF:-1 group-title="Turkey",4K TR: TEVE2 HD
@@ -185,8 +189,6 @@ https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vu
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3574429625ab8ee4e1aaa
 #EXTINF:-1 group-title="Turkey",4K TR: TV8 HD
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2693299013444c726b1ee4
-#EXTINF:-1 group-title="Turkey",4K TR: TV8,5 HD
-https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/18867436247890d4c5bd71
 #EXTINF:-1 group-title="Turkey",4K TR: TVNET HD
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1738739277a6ed7f08cfb3
 #EXTINF:-1 group-title="Turkey",4K TR: VIASAT HISTORY HD
@@ -547,6 +549,8 @@ https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vu
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/182242511854592ad20a83
 #EXTINF:-1 group-title="Turkey",BEST BILIMKURGU
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1566323467670298603f5b
+#EXTINF:-1 group-title="Turkey",BEST DRAM
+https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/4099015608239c33b463bc
 #EXTINF:-1 group-title="Turkey",BEST FM T RK E POP
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2591986518ae00754c4ef2
 #EXTINF:-1 group-title="Turkey",BEST HABABAM SINIFI
@@ -597,12 +601,18 @@ https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vu
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2224047651b7df1fd1adc5
 #EXTINF:-1 group-title="Turkey",BIR TV
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/25407700892aa536e1a9ff
+#EXTINF:-1 group-title="Turkey",BLOOMBERG
+https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/260322414100d6583c3f2b
 #EXTINF:-1 group-title="Turkey",BLOOMBERG HT
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2238665354014ee25dcf7
 #EXTINF:-1 group-title="Turkey",BLOOMBERG HT HD
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/236989031b5bce3e87ca9
+#EXTINF:-1 group-title="Turkey",BLOOMBERG HT HD+ SD
+https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2563486225460803675883
 #EXTINF:-1 group-title="Turkey",BLOOMBERGHT HD
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/8585683074b88a84fea71
+#EXTINF:-1 group-title="Turkey",BLOOMBERGHT RAW
+https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/35781502601487862e9ea4
 #EXTINF:-1 group-title="Turkey",BONUS MASAL DIYARI
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1753590086d14bf2945f0e
 #EXTINF:-1 group-title="Turkey",BOOMERANG
@@ -695,6 +705,8 @@ https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vu
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/127844757686ca7d664ae5
 #EXTINF:-1 group-title="Turkey",DIM TV
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1072972009ade9e4b4a779
+#EXTINF:-1 group-title="Turkey",DINAMIK AKSIYON
+https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2337350974aa27a20a6514
 #EXTINF:-1 group-title="Turkey",DINAMIK ANIMASYON
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/231764826926671978818a
 #EXTINF:-1 group-title="Turkey",DINAMIK BILIMKURGU
@@ -713,6 +725,8 @@ https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vu
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3331045719b0c99b128adf
 #EXTINF:-1 group-title="Turkey",DINAMIK WESTERN
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/7269150727f343c6d0f13
+#EXTINF:-1 group-title="Turkey",DINAMIK YESILCAM
+https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/10475251689d5a1f09d886
 #EXTINF:-1 group-title="Turkey",DISCOVERY CHANNEL
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3079995901347079e2f045
 #EXTINF:-1 group-title="Turkey",DISCOVERY CHANNEL HD+
@@ -747,6 +761,8 @@ https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vu
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/939027674e949a778ccc0
 #EXTINF:-1 group-title="Turkey",DIYANET TV
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2131958841c54888546e7f
+#EXTINF:-1 group-title="Turkey",DIYAR TV
+https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/4252763849da396737d0fb
 #EXTINF:-1 group-title="Turkey",DIZI SMART MAX
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/4079530614c947cd16dfeb
 #EXTINF:-1 group-title="Turkey",DIZI SMART PREMIUM
@@ -763,6 +779,8 @@ https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vu
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1595495667292319e147ce
 #EXTINF:-1 group-title="Turkey",DMAX HEVC
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3928493138c10993284095
+#EXTINF:-1 group-title="Turkey",DOCU SCREEN
+https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/32919886247715dc774227
 #EXTINF:-1 group-title="Turkey",DOCUBOX
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/26690245101fd09556fb3d
 #EXTINF:-1 group-title="Turkey",DOCUBOX HD
@@ -783,6 +801,8 @@ https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vu
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/385304349522b5e6fe1462
 #EXTINF:-1 group-title="Turkey",DREAM BEIN OFFICE 2
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/382239321182403c667cfc
+#EXTINF:-1 group-title="Turkey",DREAM BEIN OFFICE 3
+https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/373642004344d287985a44
 #EXTINF:-1 group-title="Turkey",DREAM BEIN OFFICE 4
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1821762267544ae2fe57ce
 #EXTINF:-1 group-title="Turkey",DREAM BEIN OFFICE 5
@@ -905,6 +925,8 @@ https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vu
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2032587898f7a29565e065
 #EXTINF:-1 group-title="Turkey",ENO VIZYON 9
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1145503178453c24f6b22a
+#EXTINF:-1 group-title="Turkey",ENO WESTERN
+https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1329952795f51a78bc2ce9
 #EXTINF:-1 group-title="Turkey",ENO WESTERN
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1134525301f8ecc928b4b1
 #EXTINF:-1 group-title="Turkey",ER TV
@@ -1052,6 +1074,8 @@ https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vu
 #EXTINF:-1 group-title="Turkey",FOX CRIME HEVC
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/31503810386e1be804a835
 #EXTINF:-1 group-title="Turkey",FX
+https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/382143364970784d990878
+#EXTINF:-1 group-title="Turkey",FX
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/28511479911822cfde0005
 #EXTINF:-1 group-title="Turkey",GALATASARAY TV
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3388312836d7abbf5e8b6
@@ -1063,6 +1087,8 @@ https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vu
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2456232539a0f9283d418b
 #EXTINF:-1 group-title="Turkey",GLOBAL BOX COMEDY
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/18280597356594959726c2
+#EXTINF:-1 group-title="Turkey",GLOBAL BOX DRAM
+https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1040144724c843e127b1f8
 #EXTINF:-1 group-title="Turkey",GLOBAL BOX FANTASTIC
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/155746504623fb5cc3759d
 #EXTINF:-1 group-title="Turkey",GLOBAL BOX KEMAL SUNAL
@@ -1199,6 +1225,8 @@ https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vu
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/117856985466bafacf1124
 #EXTINF:-1 group-title="Turkey",KANAL 32
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/37609264903fe9705b8a5e
+#EXTINF:-1 group-title="Turkey",KANAL 33
+https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3712681642ee46cb7cc87c
 #EXTINF:-1 group-title="Turkey",KANAL 34
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/18693393220cb8b1cc1d42
 #EXTINF:-1 group-title="Turkey",KANAL 360 HEVC
@@ -1211,6 +1239,8 @@ https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vu
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2093143206eceaba595c07
 #EXTINF:-1 group-title="Turkey",KANAL 58
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/28027024539d984983ade4
+#EXTINF:-1 group-title="Turkey",KANAL 68
+https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/56371887593c852f21e1a
 #EXTINF:-1 group-title="Turkey",KANAL 7
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/284204601910a1d31e579f
 #EXTINF:-1 group-title="Turkey",KANAL 7
@@ -1357,6 +1387,8 @@ https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vu
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3483642933b7febea98a62
 #EXTINF:-1 group-title="Turkey",LIDER HABER
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/70369886837bb68700663
+#EXTINF:-1 group-title="Turkey",LIFE TV
+https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3572490349f5368e3d7944
 #EXTINF:-1 group-title="Turkey",LINE TV
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1865892469c6a30088a293
 #EXTINF:-1 group-title="Turkey",LOVE NATURE
@@ -1371,6 +1403,8 @@ https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vu
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/5505157195cb579669a6c
 #EXTINF:-1 group-title="Turkey",M TÜRK TV
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/375599442073736b876622
+#EXTINF:-1 group-title="Turkey",MAHSUN KIRMIZIGUL
+https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/23872380735387e7ce8a3f
 #EXTINF:-1 group-title="Turkey",MALATYA ERTV
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/40628667609eeef2c85a17
 #EXTINF:-1 group-title="Turkey",MAM EBU HANIFE
@@ -1401,6 +1435,8 @@ https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vu
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/356015936814f07bd975b9
 #EXTINF:-1 group-title="Turkey",MAX PREMIER
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/858266837de2519924a62
+#EXTINF:-1 group-title="Turkey",MAX STAR WARS
+https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/19211708241b5fda0abe88
 #EXTINF:-1 group-title="Turkey",MAX TURK
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/12222724817c6557a8a82e
 #EXTINF:-1 group-title="Turkey",MAX VIZYON
@@ -1475,8 +1511,6 @@ https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vu
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/37193975221c1d8ce1ff11
 #EXTINF:-1 group-title="Turkey",MTV LIVE
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/41780715606f8ffc7fa3f
-#EXTINF:-1 group-title="Turkey",MUSLUM GURSES
-https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1953745495384d5f996a8
 #EXTINF:-1 group-title="Turkey",NAT GEO
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/184566063009c2eced111a
 #EXTINF:-1 group-title="Turkey",NAT GEO
@@ -1741,6 +1775,8 @@ https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vu
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/25015099ab9477fb2b92
 #EXTINF:-1 group-title="Turkey",SALON 2
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3645943584c869227b2d53
+#EXTINF:-1 group-title="Turkey",SALON 2
+https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/32805795494a101a59b81a
 #EXTINF:-1 group-title="Turkey",SALON 2 HD
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/33228029803fb5b1e53f60
 #EXTINF:-1 group-title="Turkey",SALON 3
@@ -1800,8 +1836,6 @@ https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vu
 #EXTINF:-1 group-title="Turkey",SHOW TURK
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/20097725333f38724a70f7
 #EXTINF:-1 group-title="Turkey",SHOW TURK
-https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/20097725333f38724a70f7
-#EXTINF:-1 group-title="Turkey",SHOW TURK
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/18802705619a03e126f4de
 #EXTINF:-1 group-title="Turkey",SHOW TV
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2485009235d60801ad626b
@@ -1849,8 +1883,6 @@ https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vu
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/4201568953301b0088849e
 #EXTINF:-1 group-title="Turkey",SINEVIZYON 1
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3562169936e24369ffef8d
-#EXTINF:-1 group-title="Turkey",SINEVIZYON 5
-https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/567459984fcc0c3381a21
 #EXTINF:-1 group-title="Turkey",SINEVIZYON TURK 1
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/237327525e72f36a04e37
 #EXTINF:-1 group-title="Turkey",SINEVIZYON TURK 2
@@ -1971,8 +2003,6 @@ https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vu
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3035603077ef0df0e5da67
 #EXTINF:-1 group-title="Turkey",TABII SPOR 5 HD
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/26619334135baa08b0bc1a
-#EXTINF:-1 group-title="Turkey",TABII SPOR 5 UHD
-https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/383933219867eefb660622
 #EXTINF:-1 group-title="Turkey",TABII SPOR 6
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/40820967253b1d74e19a7f
 #EXTINF:-1 group-title="Turkey",TABII SPOR 6 HD
@@ -2041,8 +2071,6 @@ https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vu
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/356274005436ab338d23af
 #EXTINF:-1 group-title="Turkey",TIVI 6
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/7741680162cf446ba65c6
-#EXTINF:-1 group-title="Turkey",TIVI TÜRK
-https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/7021579547bba092a6b21
 #EXTINF:-1 group-title="Turkey",TIVIBU SPOR 1
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/25659723389efdd2098be1
 #EXTINF:-1 group-title="Turkey",TIVIBU SPOR 1
@@ -2187,8 +2215,6 @@ https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vu
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/433581315c4ec59f78e92
 #EXTINF:-1 group-title="Turkey",TRT OCUK HD
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/5500451029f0e83b65cf8
-#EXTINF:-1 group-title="Turkey",TRT SPOR
-https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/21143354242548e3a116d2
 #EXTINF:-1 group-title="Turkey",TRT SPOR
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/27814292671faae74c3b20
 #EXTINF:-1 group-title="Turkey",TRT SPOR 2 HD
@@ -2374,9 +2400,9 @@ https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vu
 #EXTINF:-1 group-title="Turkey",VUSLAT TV
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/94903312294e3da09f3b7
 #EXTINF:-1 group-title="Turkey",VUSLAT TV
+https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/94903312294e3da09f3b7
+#EXTINF:-1 group-title="Turkey",VUSLAT TV
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/106175275801eef0c50dd7
-#EXTINF:-1 group-title="Turkey",WM TV WOMAN KADIN
-https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3259520726e713e4000bfa
 #EXTINF:-1 group-title="Turkey",X NOSTALJI T RK E KLASIK
 https://vavootest.magnitude.workers.dev/manifest.m3u8?url=https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1767757052f44dee90b42b
 #EXTINF:-1 group-title="Turkey",YABAN
