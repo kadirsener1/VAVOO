@@ -55,7 +55,7 @@ def main():
                         url = item.get("url", "")
                         
                         if url:
-                            url = "https://vavoo.magnitude.workers.dev/manifest.m3u8?url=" + url
+                            url = "https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=" + url
                             m3u_lines.append(f'#EXTINF:-1 group-title="{country}",{clean_name}')
                             m3u_lines.append(url)
                             full_json_data[country].append({"name": clean_name, "url": url, "group": country})
